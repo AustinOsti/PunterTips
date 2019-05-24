@@ -1,0 +1,12 @@
+src/.DS_Store
+src/.nodemonignore
+src/.sass-cache/
+src/npm-debug.log
+src/node_modules/
+src/public/lib
+src/app/tests/coverage/
+src/.bower-*/
+src/.idea/
+data/
+zz.Temp/
+dump/

@@ -1,66 +1,67 @@
 'use strict';
 
 // Updates controller
-angular.module('updates').controller('UpdatesController', ['$scope', '$stateParams', '$location', 'Authentication', 'Updates',
-	function($scope, $stateParams, $location, Authentication, Updates) {
+angular.module('updates').controller('UpdatesController', ['$scope', '$stateParams', '$location', 'Authentication', 'Updates', 'UpdateData', 
+	function($scope, $stateParams, $location, Authentication, Updates, UpdateData) {
 		$scope.authentication = Authentication;
+		$scope.user = Authentication.user;
+		$scope.displayParams = true;
+		$scope.displayConfirmList = false;		
+		
+		var date = new Date();
+		date.setDate(date.getDate() - 1);
+		
+		var day = date.getDate();
+		var month = date.getMonth()+1;
+		var year = date.getFullYear().toString();
 
-		// Create new Update
-		$scope.create = function() {
-			// Create new Update object
-			var update = new Updates ({
-				name: this.name
-			});
+		if (date < 10){
+			date = '0' + date.toString();
+		};	
 
-			// Redirect after save
-			update.$save(function(response) {
-				$location.path('updates/' + response._id);
-
-				// Clear form fields
-				$scope.name = '';
-			}, function(errorResponse) {
-				$scope.error = errorResponse.data.message;
-			});
+		if (month < 10){
+			month = '0' + month.toString();
 		};
+		const urlLink = year+month+day+'/';
+		$scope.resultsUrl = 'https://www.oddsportal.com/matches/soccer/'+urlLink;
 
-		// Remove existing Update
-		$scope.remove = function(update) {
-			if ( update ) { 
-				update.$remove();
-
-				for (var i in $scope.updates) {
-					if ($scope.updates [i] === update) {
-						$scope.updates.splice(i, 1);
-					}
-				}
+		$scope.listDayResults = function(pgNo) {
+			$scope.displayParams = false;
+			$scope.notice = "Processing ... Please wait";
+			if (pgNo==0) {
+				$scope.pageNo = 0;
 			} else {
-				$scope.update.$remove(function() {
-					$location.path('updates');
-				});
+				$scope.pageNo = $scope.pageNo + pgNo;
+			}
+			if ($scope.resultsUrl) {			
+				UpdateData.getDayResults(	
+					'/listDayResults')
+				.then(function (response) {
+					$scope.notice = "";	
+					$scope.displayConfirmList = true;
+					$scope.displayScrolls = true;					
+					$scope.updateArchiveList = response;
+					$scope.fixturesToUpdate = 'No. of fixtures to archive: '+ response.length;
+					console.log(response);
+				}, function (errorResponse) {
+					$scope.displayParams = true;
+					$scope.notice = errorResponse.message;
+				});				
 			}
 		};
-
-		// Update existing Update
-		$scope.update = function() {
-			var update = $scope.update;
-
-			update.$update(function() {
-				$location.path('updates/' + update._id);
-			}, function(errorResponse) {
-				$scope.error = errorResponse.data.message;
-			});
-		};
-
-		// Find a list of Updates
-		$scope.find = function() {
-			$scope.updates = Updates.query();
-		};
-
-		// Find existing Update
-		$scope.findOne = function() {
-			$scope.update = Updates.get({ 
-				updateId: $stateParams.updateId
-			});
+		
+		$scope.postDayResults = function() {
+			UpdateData.postDayResults(	
+				'/postDayResults')
+			.then(function () {
+				$scope.notice = "";	
+				$scope.displayConfirmList = false;
+				$scope.displayScrolls = false;
+				$location.path('updates');
+			}, function (errorResponse) {
+				$scope.displayConfirmList = true;
+				$scope.notice = errorResponse.message;
+			});				
 		};
 	}
 ]);

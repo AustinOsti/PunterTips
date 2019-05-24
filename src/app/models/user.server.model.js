@@ -78,6 +78,15 @@ var UserSchema = new Schema({
 	updated: {
 		type: Date
 	},
+	archiveUpdated: {
+		type: Date
+	},
+	betsUpdated: {
+		type: Date
+	},
+	betListUpdated: {
+		type: Date
+	},	
 	created: {
 		type: Date,
 		default: Date.now

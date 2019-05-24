@@ -1,0 +1,40 @@
+{
+  "name": "PunterTips",
+  "version": "1.0.0",
+  "description": "Scrap Football Bets & Results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bets": "node update_bets.js",
+	"mbets": "node update_mbets.js",
+    "results": "node update_results.js",
+    "betlist": "nodemon analysis_daybets.js",
+    "mbetlist": "nodemon analysis_mbets.js",
+    "betanalysis": "nodemon analysis_archivebets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinOsti/SelfProjects_Scrap-Archives.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinOsti/SelfProjects_Scrap-Archives/issues"
+  },
+  "homepage": "https://github.com/AustinOsti/SelfProjects_Scrap-Archives#readme",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.7.4",
+    "express-session": "~1.9.1",
+    "method-override": "~2.1.2",
+    "mongoose": "^4.13.18",
+    "morgan": "~1.2.2",
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {
+    "shelljs": "^0.3.0"
+  }
+}

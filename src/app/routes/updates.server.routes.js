@@ -5,14 +5,11 @@ module.exports = function(app) {
 	var updates = require('../../app/controllers/updates.server.controller');
 
 	// Updates Routes
-	app.route('/updates')
-		.get(updates.list)
-		.post(users.requiresLogin, updates.create);
-
-	app.route('/updates/:updateId')
-		.get(updates.read)
-		.put(users.requiresLogin, updates.hasAuthorization, updates.update)
-		.delete(users.requiresLogin, updates.hasAuthorization, updates.delete);
+	app.route('/listDayResults')
+		.get(updates.listDayResults);
+		
+	app.route('/postDayResults')
+		.get(updates.postDayResults);		
 
 	// Finish by binding the Update middleware
 	app.param('updateId', updates.updateByID);
