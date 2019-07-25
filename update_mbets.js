@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 const JSONStream = require('JSONStream');
 const MBets = require('./models/MBetsList');
 const config = require('./config/config.js');
-const extractsFolder = './extracts - HTML/';
 const extractsToUpload = './extracts - ManualPicks/';
 
 mongoose.connect(config.MONGODB_URI, { poolSize: config.DB_POOL_SIZE });
@@ -13,7 +12,7 @@ mongoose.Promise = global.Promise;
 const db = mongoose.connection;
 
 const date = new Date();
-date.setDate(date.getDate()); // + 1);
+date.setDate(date.getDate() + 0);
 const formattedDate = date.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'short', year: 'numeric'
 }).replace(/ /g, ' ');

@@ -10,9 +10,23 @@ let express = require('express'),
 	MBetsList = require('./models/MBetsList'),	
 	Archive = require('./models/Archives'),
 	MBets = require('./models/MBets'),
-	port = process.env.PORT || 8080,
-	extractsAnalysis = './extracts - Analysis/';
+	port = process.env.PORT || 8080;
+	
+const extractsAnalysis = './extracts - Analysis/';
 
+const dateFilter = "2019-06-24T21:00:00.000Z";
+let betsFilter = {"$eq": new Date(dateFilter)};
+let archiveFilter = {"$lt": new Date(dateFilter)};
+
+// send console.log to file ...
+let log_file = fs.createWriteStream(extractsAnalysis + 'mbetanalysis_'+dateFilter.substr(0, 13) +'.txt', {flags : 'w'});
+let log_stdout = process.stdout;
+
+console.log = function(d) {
+	log_file.write(util.format(d) + '\n');
+	log_stdout.write(util.format(d) + '\n');
+};
+ 
 mongoose.Promise = global.Promise;
 
 // use script below to debug mongoose ...
@@ -38,33 +52,31 @@ let betList0 = [];
 let betCriteria = {};
 let archiveCriteria = {};
 
-// set the dateFilter value to day of games (eg, if 2 May 2019, set to  2019-05-01T21:00:00.000Z)
-const dateFilter = "2019-05-07T21:00:00.000Z";
-let betsFilter = {"$eq": new Date(dateFilter)};
-let archiveFilter = {"$lt": new Date(dateFilter)};
-
-// send console.log to file ...
-let log_file = fs.createWriteStream(extractsAnalysis + 'mbetlist_'+dateFilter.substr(0, 13) +'.txt', {flags : 'w'});
-let log_stdout = process.stdout;
-console.log = function(d) {
-	log_file.write(util.format(d) + '\n');
-	log_stdout.write(util.format(d) + '\n');
-};
- 
 if (dateFilter) {
 	betCriteria.day = betsFilter;
 	archiveCriteria.day = archiveFilter
 }
+			
+// 0. Count bet list
+function countBetList() {
+	return new Promise(function(resolve, reject) {
+		Archive.count({
+			$and: [
+				betCriteria
+			]
+		})
+		.exec(function(err, bets) {			
+			if (err) { reject(err);}
+			console.log('No. on bet list: '+bets);
+			resolve();	
+		});
+	});				
+};
 
 // 1. Get bet list
 function getBetList(betList0) {
 	return new Promise(function(resolve, reject) {
-		MBetsList.find({
-			$and: [
-				betCriteria,
-				{league: {$regex: /^((?!friend).)*$/, $options: "i"}}
-			]
-		})
+		MBetsList.find({})
 		.exec(function(err, bets) {			
 			if (err) { reject(err);}
 			bets.forEach(function(bet){
@@ -75,7 +87,7 @@ function getBetList(betList0) {
 	});
 };
 
- // 2. No. of times in archive where home team featured - thtgames
+// 2. No. of times in archive where home team featured - thtgames
 function countGamesForHTeam(betList0) {
 	return new Promise(function(resolve, reject) {
 		let loopPromises = [];
@@ -84,7 +96,7 @@ function countGamesForHTeam(betList0) {
 				Archive.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{home: betTeam.home},
 							{away: betTeam.home}				
@@ -119,7 +131,7 @@ function countGamesForATeam(betList0) {
 				Archive.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{home: betTeam.away},
 							{away: betTeam.away}				
@@ -154,7 +166,7 @@ function countGamesForBothTeams(betList0) {
 				Archive.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [				
 							{$and: [
 								{home: betTeam.home},
@@ -196,7 +208,7 @@ function previousGamesHTWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -241,7 +253,7 @@ function previousGamesDraws(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -286,7 +298,7 @@ function previousGamesATWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -331,7 +343,7 @@ function allPreviousGamesHTWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -378,7 +390,7 @@ function allPreviousGamesHTDraws(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -425,7 +437,7 @@ function allPreviousGamesHTLoss(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.home},
@@ -472,7 +484,7 @@ function allPreviousGamesATWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.away},
@@ -519,7 +531,7 @@ function allPreviousGamesATDraws(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.away},
@@ -566,7 +578,7 @@ function allPreviousGamesATLoss(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{$or: [
 							{$and: [
 								{home: betTeam.away},
@@ -612,7 +624,7 @@ function allHomeGamesHT(betList0) {
 				Archive.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{home: betTeam.home}			
 					]
 				})
@@ -644,7 +656,7 @@ function allAwayGamesAT(betList0) {
 				Archive.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{away: betTeam.away}			
 					]
 				})
@@ -677,7 +689,7 @@ function allHomeGamesHTWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{home: betTeam.home},
 						{h_status: true}		
 					]
@@ -712,7 +724,7 @@ function allAwayGamesATWins(betList0) {
 				.count({
 					$and: [
 						archiveCriteria,
-						{league: {$regex: /^((?!friend).)*$/, $options: "i"}},
+						{country: betTeam.country},
 						{away: betTeam.away},
 						{a_status: true}		
 					]
@@ -737,19 +749,314 @@ function allAwayGamesATWins(betList0) {
 	});
 };
 
-// 18. store analysis in txt file and bets database.
+// 18.  No. of previous games played by home team where the ODDS where to their favour - tpghtodds
+function oddsHTWins(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function tpghtoddsFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive.count({
+					$or: [
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{home: betTeam.home},
+							{odds_delta: {$lt: 0}}
+						]},
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{away: betTeam.home},
+							{odds_delta: {$gt: 0}}
+						]}					
+					]
+				})
+				.exec(function(err, noOfDocs) {			
+					if (err) { reject(err);}
+					Object.assign(betTeam, {'tpghtodds': noOfDocs});
+					resolve(betTeam);
+				});				
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(tpghtoddsFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});			
+	});
+};
+
+// 19.  No. of previous games played by away team where the ODDS where to their favour - tpgatodds
+function oddsATWins(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function tpgatoddsFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive.count({
+					$or: [
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{home: betTeam.away},
+							{odds_delta: {$lt: 0}}
+						]},
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{away: betTeam.away},
+							{odds_delta: {$gt: 0}}
+						]}					
+					]
+				})
+				.exec(function(err, noOfDocs) {			
+					if (err) { reject(err);}
+					Object.assign(betTeam, {'tpgatodds': noOfDocs});
+					resolve(betTeam);
+				});				
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(tpgatoddsFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});		
+	});
+};
+
+// 20.  % of previous games played by home team where the ODDS where to their favour that they won (divide by no. 18) - tpghtoddswin
+function oddsHTWinsWon(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function tpghtoddswinFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive.count({
+					$or: [
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{home: betTeam.home},
+							{odds_delta: {$lt: 0}},
+							{h_status: true}
+						]},
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{away: betTeam.home},
+							{odds_delta: {$gt: 0}},
+							{a_status: true}
+						]}					
+					]
+				})
+				.exec(function(err, noOfDocs) {			
+					if (err) { reject(err);}
+					let tpghtoddswin = (betTeam.tpghtodds == 0) ? 0 : ((noOfDocs/betTeam.tpghtodds)*100).toFixed(2);
+					Object.assign(betTeam, {'tpghtoddswin': tpghtoddswin});
+					resolve(betTeam);
+				});				
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(tpghtoddswinFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});		
+	});
+};
+
+// 21.  % of previous games played by away team where the ODDS where to their favour that they won (divide by no. 19) - tpgatoddswin
+function oddsATWinsWon(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function tpgatoddswinFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive.count({
+					$or: [
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{home: betTeam.away},
+							{odds_delta: {$lt: 0}},
+							{h_status: true}
+						]},
+						{$and: [
+							archiveCriteria,
+							{country: betTeam.country},
+							{away: betTeam.away},
+							{odds_delta: {$gt: 0}},
+							{a_status: true}
+						]}					
+					]
+				})
+				.exec(function(err, noOfDocs) {			
+					if (err) { reject(err);}
+					let tpgatoddswin = (betTeam.tpgatodds == 0) ? 0 : ((noOfDocs/betTeam.tpgatodds)*100).toFixed(2);
+					Object.assign(betTeam, {'tpgatoddswin': tpgatoddswin});
+					resolve(betTeam);
+				});				
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(tpgatoddswinFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});		
+	});
+};
+
+// 22. get performance (WDL) of the home teams games - pghtrun
+function allPreviousGamesHTRun(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function pghtrunFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive
+				.find({
+					$and: [
+						archiveCriteria,
+						{country: betTeam.country},
+						{$or: [
+							{home: betTeam.home},
+							{away: betTeam.home}
+						]}				
+					]
+				})
+				.sort('-day')
+				.exec(function(err, docs) {			
+					if (err) { reject(err);}
+					let pghtrun = [];
+					docs.forEach (function(doc) {
+						let goalDiff, gameStatus;
+						goalDiff = (doc.h_goals - doc.a_goals);
+						if (doc.home === betTeam.home) {
+							if (goalDiff<0) {
+								gameStatus = "L";
+							} else if (goalDiff>0) {
+								gameStatus = "W";
+							} else {
+								gameStatus = "D";
+							}							
+						} else {
+							if (goalDiff>0) {
+								gameStatus = "L";
+							} else if (goalDiff<0) {
+								gameStatus = "W";
+							} else {
+								gameStatus = "D";
+							}							
+						}
+						pghtrun.push(gameStatus)
+					});
+					if (pghtrun.length > 6) {
+						pghtrun.length = 6;
+					}
+					Object.assign(betTeam, {'pghtrun': pghtrun});
+					resolve(betTeam);
+				});	
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(pghtrunFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});		
+	});				
+};
+
+// 23. get performance (WDL) of the away teams games - pgatrun
+function allPreviousGamesATRun(betList0) {
+	return new Promise(function(resolve, reject) {
+		let loopPromises = [];
+		function pgatrunFn(betTeam) {
+			return new Promise(function(resolve, reject) {
+				Archive
+				.find({
+					$and: [
+						archiveCriteria,
+						{country: betTeam.country},
+						{$or: [
+							{home: betTeam.away},
+							{away: betTeam.away}
+						]}				
+					]
+				})
+				.sort('-day')
+				.exec(function(err, docs) {			
+					if (err) { reject(err);}
+					let pgatrun = [];
+					docs.forEach (function(doc) {
+						let goalDiff, gameStatus;
+						goalDiff = (doc.h_goals - doc.a_goals);
+						if (doc.home === betTeam.away) {
+							if (goalDiff<0) {
+								gameStatus = "L";
+							} else if (goalDiff>0) {
+								gameStatus = "W";
+							} else {
+								gameStatus = "D";
+							}							
+						} else {
+							if (goalDiff>0) {
+								gameStatus = "L";
+							} else if (goalDiff<0) {
+								gameStatus = "W";
+							} else {
+								gameStatus = "D";
+							}							
+						}
+						pgatrun.push(gameStatus)
+					});
+					if (pgatrun.length > 6) {
+						pgatrun.length = 6;
+					}
+					Object.assign(betTeam, {'pgatrun': pgatrun});
+					resolve(betTeam);
+				});	
+			});
+		};
+		
+		betList0.forEach(function (betTeam) {
+			loopPromises.push(pgatrunFn(betTeam));
+		});
+		
+		Promise.all(loopPromises)
+		.then (function() {
+			resolve(betList0);
+		});		
+	});				
+};
+
+// 24. store analysis in txt file and bets database.
 function listBetList(betList0) {
 	return new Promise(function(resolve, reject) {
 		betList0.forEach(function (betTeam) {
-			console.log(betTeam.day+'»'+betTeam.country+'»'+betTeam.league+'»'+betTeam.game+'»'+betTeam.home+'»'+betTeam.away+'»'+betTeam.h_goals+'»'+betTeam.a_goals+'»'+betTeam.odds_1+'»'+betTeam.odds_x+'»'+betTeam.odds_2+'»'+betTeam.odds_delta+'»'+betTeam.thtgames+'»'+betTeam.tatgames+'»'+betTeam.tpgames+'»'+betTeam.tpghtah+'»'+betTeam.tpgataw+'»'+betTeam.pghtwins+'»'+betTeam.pgdraws+'»'+betTeam.pgatwins+'»'+betTeam.tpghtwins+'»'+betTeam.tpghtdraws+'»'+betTeam.tpghtloss+'»'+betTeam.tpgatwins+'»'+betTeam.tpgatdraws+'»'+betTeam.tpgatloss+'»'+betTeam.tpghtahwin+'»'+betTeam.tpgatawwin);
+			console.log(betTeam.day+'»'+betTeam.country+'»'+betTeam.league+'»'+betTeam.game+'»'+betTeam.home+'»'+betTeam.away+'»'+betTeam.h_goals+'»'+betTeam.a_goals+'»'+betTeam.odds_1+'»'+betTeam.odds_x+'»'+betTeam.odds_2+'»'+betTeam.odds_delta+'»'+betTeam.thtgames+'»'+betTeam.tatgames+'»'+betTeam.tpgames+'»'+betTeam.tpghtah+'»'+betTeam.tpgataw+'»'+betTeam.pghtwins+'»'+betTeam.pgdraws+'»'+betTeam.pgatwins+'»'+betTeam.tpghtwins+'»'+betTeam.tpghtdraws+'»'+betTeam.tpghtloss+'»'+betTeam.tpgatwins+'»'+betTeam.tpgatdraws+'»'+betTeam.tpgatloss+'»'+betTeam.tpghtahwin+'»'+betTeam.tpgatawwin+'»'+betTeam.tpghtodds+'»'+betTeam.tpgatodds+'»'+betTeam.tpghtoddswin+'»'+betTeam.tpgatoddswin+'»'+betTeam.pghtrun+'»'+betTeam.pgatrun);
 		});
 //		MBets.insertMany(betList0);
 		resolve();
 	});
 };
 				
-( function generateBetList() {	
-
+( function generateBetList() {
 	let promise = getBetList(betList0);
 	promise
 	.then (function (betList0) {
@@ -799,6 +1106,24 @@ function listBetList(betList0) {
 	})
 	.then (function (betList0) {
 		return allAwayGamesATWins(betList0);
+	})	
+	.then (function (betList0) {
+		return oddsHTWins(betList0);
+	})		
+	.then (function (betList0) {
+		return oddsATWins(betList0);
+	})	
+	.then (function (betList0) {
+		return oddsHTWinsWon(betList0);
+	})	
+	.then (function (betList0) {
+		return oddsATWinsWon(betList0);
+	})		
+	.then (function (betList0) {
+		return allPreviousGamesHTRun(betList0);
+	})	
+	.then (function (betList0) {
+		return allPreviousGamesATRun(betList0);
 	})	
 	.then (function (betList0) {
 		return listBetList(betList0);

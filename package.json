@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+	"getjps": "node mbets_json.js",
     "bets": "node update_bets.js",
-	"mbets": "node update_mbets.js",
+    "mbets": "node update_mbets.js",
     "results": "node update_results.js",
     "betlist": "nodemon analysis_daybets.js",
     "mbetlist": "nodemon analysis_mbets.js",
@@ -32,7 +33,11 @@
     "method-override": "~2.1.2",
     "mongoose": "^4.13.18",
     "morgan": "~1.2.2",
-    "nightmare": "^3.0.1"
+    "nightmare": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "multer": "^1.4.1",
+    "xls-to-json-lc": "^0.3.4",
+    "xlsx-to-json-lc": "^0.5.0"
   },
   "devDependencies": {
     "shelljs": "^0.3.0"

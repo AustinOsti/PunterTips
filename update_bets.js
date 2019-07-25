@@ -13,7 +13,7 @@ mongoose.Promise = global.Promise;
 const db = mongoose.connection;
 
 const date = new Date();
-date.setDate(date.getDate()); // + 1);
+date.setDate(date.getDate() + 0);
 const formattedDate = date.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'short', year: 'numeric'
 }).replace(/ /g, ' ');

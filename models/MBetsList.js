@@ -118,7 +118,29 @@ var betListSchema = new Schema({
 	tpgatawwin: { 
 		type: Number,
 		default: 0		
-	}	
+	},
+	tpghtodds: { 
+		type: Number,
+		default: 0		
+	},
+	tpgatodds: { 
+		type: Number,
+		default: 0		
+	},
+	tpghtoddswin: { 
+		type: Number,
+		default: 0		
+	},
+	tpgatoddswin: { 
+		type: Number,
+		default: 0		
+	},
+	pghtrun: { 
+		type: Array
+	},
+	pgatrun: { 
+		type: Array
+	}		
 });
 
 module.exports = mongoose.model('MBetsList', betListSchema);
