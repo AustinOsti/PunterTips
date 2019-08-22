@@ -50,19 +50,8 @@ let deleteFolderRecursive = function(path) {
 		fs.rmdirSync(path);
 		return;
 	} else {
-		console.log('\nError. Path does not exisit');
+		console.log('Error. Path does not exisit');
 	}		
-};
-
-let noOfRecords = function() {
-	return new Promise(function(resolve, reject) {
-		Archives.count({})
-		.exec(function(err, noOfRecords) {			
-			if (err) { reject(err);}
-			console.log('\n**** No. of games in archive: **** '+noOfRecords);
-			resolve();	
-		});
-	});		
 };
 
 // read in filenames of saved webpage(s) into an array
@@ -78,10 +67,9 @@ let retrieveResults = function(extractsFolder, fileNames) {
 						fileNames.push(file);
 					}	
 				});
-				console.log('\nRetrieved filenames of saved webpage');
 				resolve(fileNames);			
 			} else {
-				reject('\nPlease store the results html file in the extracts - HTML folder first before running this script');
+				reject("Please store the results html file in the extracts - HTML folder first before running this script");
 			}
 		});
 	});
@@ -171,46 +159,9 @@ let processFileContents = function(fileNames) {
 						reject(err);
 					}
 				});						
-				console.log("\nUpload file " + saveFile + " ready");
+				console.log("Upload file " + saveFile + " ready");
 				resolve();				
 			});	
-		});
-	});
-};
-
-let updateArchives = function(extractsToUpload) {
-	return new Promise(function(resolve, reject) {	
-		fs
-		.readdirSync(extractsToUpload)
-		.forEach(function(file) {
-			if (!file) {
-				reject("\nNo files prepared for upload process");
-			}			
-			process.stdout.write('\nProcessing.');
-			const dataStreamFromFile = fs.createReadStream(extractsToUpload+file);
-			dataStreamFromFile.pipe(JSONStream.parse('*'))
-			.on('data', async (archiveData) => {
-				arrayOfResults.push(archiveData);
-				if (arrayOfResults.length === config.BATCH_INSERT_VALUE) {
-					dataStreamFromFile.pause();
-					await Archives.insertMany(arrayOfResults);
-					arrayOfResults = [];
-					process.stdout.write('.');
-					dataStreamFromFile.resume();
-				}
-			});
-			dataStreamFromFile
-			.on('end', async () => {
-				await Archives.insertMany(arrayOfResults); // left over data
-				console.log('\nImport complete.');
-//				db.close();
-				resolve();
-			});
-			db.on('error', (err) => {
-				console.error('\nMongoDB connection error: ', err);
-				process.exit(-1);
-				reject(err);
-			});
 		});
 	});
 };
@@ -229,7 +180,7 @@ let deleteExtractFiles = function(extractsFolder, folderNames) {
 						if (err) {
 							reject(err);
 						}
-						console.log('\nFile ' + file +' deleted!');
+						console.log('File ' + file +' deleted!');
 					}); 
 				} else {
 					folderNames.push(file);
@@ -245,10 +196,48 @@ let deleteExtractFolders = function (extractsFolder, folderNames) {
 		folderNames.forEach(function(folderName) {
 			let subFolder = extractsFolder+folderName;
 			deleteFolderRecursive(subFolder);
-			console.log('\nFolder ' + folderName +' deleted!');			
+			console.log('Folder ' + folderName +' deleted!');			
 		});	
 		resolve();		
 	});	
+};
+
+let updateArchives = function(extractsToUpload) {
+	return new Promise(function(resolve, reject) {	
+		fs
+		.readdirSync(extractsToUpload)
+		.forEach(function(file) {
+			if (!file) {
+				reject("No files prepared for upload process");
+			}			
+			process.stdout.write('Processing.');
+//			console.log("Updating archives ...");
+			const dataStreamFromFile = fs.createReadStream(extractsToUpload+file);
+			dataStreamFromFile.pipe(JSONStream.parse('*'))
+			.on('data', async (archiveData) => {
+				arrayOfResults.push(archiveData);
+				if (arrayOfResults.length === config.BATCH_INSERT_VALUE) {
+					dataStreamFromFile.pause();
+					await Archives.insertMany(arrayOfResults);
+					arrayOfResults = [];
+					process.stdout.write('.');
+					dataStreamFromFile.resume();
+				}
+			});
+			dataStreamFromFile
+			.on('end', async () => {
+				await Archives.insertMany(arrayOfResults); // left over data
+				console.log('\nImport complete, closing connection...');
+				db.close();
+				resolve();
+			});
+			db.on('error', (err) => {
+				console.error('MongoDB connection error: ', err);
+				process.exit(-1);
+				reject(err);
+			});
+		});
+	});
 };
 
 let deleteProcessedFiles = function(extractsToUpload) {
@@ -263,35 +252,27 @@ let deleteProcessedFiles = function(extractsToUpload) {
 					if (err) {
 						reject(err);
 					}	
-					console.log('\nArchive upload file ' +file +' deleted!');					
+					console.log('Archive upload file ' +file +' deleted!');					
 				});			
-			});
-			console.log('\nProcess complete, closing connection...');			
-			db.close();			
+			});			
 			resolve();
 		});		
 	});	
 };
 		
-let promise = noOfRecords();
+let promise = retrieveResults(extractsFolder, fileNames);
 promise
-.then(function() {
-	return retrieveResults(extractsFolder, fileNames);
-})
 .then(function(fileNames) {
 	return processFileContents(fileNames);
-})
-.then(function() {
-	return updateArchives(extractsToUpload);
-})
-.then(function() {
-	return noOfRecords();
 })
 .then(function() {
 	return deleteExtractFiles(extractsFolder, folderNames);
 })
 .then(function(folderNames) {
 	return deleteExtractFolders(extractsFolder, folderNames);
+})
+.then(function() {
+	return updateArchives(extractsToUpload);
 })
 .then(function() {
 	return deleteProcessedFiles(extractsToUpload);
