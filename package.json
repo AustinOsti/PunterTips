@@ -28,7 +28,7 @@
     "express-session": "~1.9.1",
     "method-override": "~2.1.2",
     "mongoose": "^4.13.18",
-    "morgan": "~1.2.2",
+    "morgan": "~1.9.1",
     "nightmare": "^3.0.1",
     "body-parser": "^1.18.3",
     "multer": "^1.4.1",
