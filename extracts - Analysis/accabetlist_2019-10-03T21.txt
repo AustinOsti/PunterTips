@@ -1,0 +1,848 @@
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Junior-La Equidad»Junior»La Equidad»1»0»1.54»3.71»6.39»-4.85»D,W,D,D,W,D»D,W,D,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»America MG-CRB»America MG»CRB»1»0»1.75»3.33»4.86»-3.11»L,W,W,W,D,D»D,D,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Deportes Tolima-Dep. Cali»Deportes Tolima»Dep. Cali»5»2»1.98»3.19»3.89»-1.91»L,L,W,D,D,W»W,W,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»San Carlos-Alianza FC»San Carlos»Alianza FC»1»0»2.17»3.15»3.18»-1.01»L,W,D»W,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Philippines»PFL»Stallion-Philippine Air Force»Stallion»Philippine Air Force»null»null»1.02»21»27»-25.98»D,W,L,D,W,W»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera Nacional»Instituto-Quilmes»Instituto»Quilmes»1»1»2.22»2.78»3.65»-1.43»D,W,W,W,D,L»D,D,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ecuador»Copa Ecuador»LDU Quito-Emelec»LDU Quito»Emelec»null»null»1.76»3.26»4.66»-2.9»W,W,W,D,D,W»W,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»Vitoria-Sport Recife»Vitoria»Sport Recife»2»2»3.31»2.96»2.3»1.01»L,D,L,L,W,D»W,W,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Santa Fe-Bucaramanga»Santa Fe»Bucaramanga»2»0»1.53»3.67»6.79»-5.26»W,W,W,W,L,L»L,D,W,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»Comunicaciones-Olimpia»Comunicaciones»Olimpia»0»0»2.21»3.1»3.25»-1.04»L,D,W,D,W»W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persewar Waropen-Persis Solo»Persewar Waropen»Persis Solo»1»0»1.62»3.46»5»-3.38»W,W,D,L,W,L»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Sochi U19-Krylya Sovetov Samara U19»Sochi U19»Krylya Sovetov Samara U19»null»null»2.98»3.56»2.1»0.88»W,L,D,L,L,L»L,L,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 1»Bhayangkara Utd-PSS Sleman»Bhayangkara Utd»PSS Sleman»null»null»1.77»3.5»4.33»-2.56»D,D,W,D,L,L»D,L,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»PSIM Yogyakarta-Sulut Utd»PSIM Yogyakarta»Sulut Utd»null»null»1.54»3.71»5.58»-4.04»L,W,L,L,W,W»W,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persik Kediri-Madura FC»Persik Kediri»Madura FC»null»null»1.32»4.46»8.13»-6.81»L,W,W,L,D,W»L,L,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Asi Gilboa-H. Migdal HaEmek»H. Asi Gilboa»H. Migdal HaEmek»null»null»3.82»3.83»1.72»2.1»L,L,L»W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»France U19 W-Romania U19 W»France U19 W»Romania U19 W»null»null»1.02»19»50.5»-49.48»W,W,W,D,W,W»D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Switzerland U19 W-Israel U19 W»Switzerland U19 W»Israel U19 W»null»null»1.05»12.2»20.35»-19.3»W,D,W,L,W,W»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Kazakhstan»First Division 2019»Zhetysu 2-Kairat Academy»Zhetysu 2»Kairat Academy»null»null»1.91»3.4»3.48»-1.57»D,D,D,W,D»D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Rubin Kazan U19-Tambov U19»Rubin Kazan U19»Tambov U19»null»null»2.15»3.52»2.89»-0.74»W,D,W,W,D,D»W,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Bikat Hayarden-Holon Yermiyahu»H. Bikat Hayarden»Holon Yermiyahu»null»null»2.54»3.25»2.45»0.09»W,L,W»L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Japan»J1 League»G Osaka-Sapporo»G Osaka»Sapporo»null»null»2.41»3.63»2.66»-0.25»W,L,W,L,D,D»D,L,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»FK Orenburg U19-Dynamo Moscow U19»FK Orenburg U19»Dynamo Moscow U19»null»null»8.05»6.04»1.24»6.81»L,L,L,D,L,W»W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Lviv U21-Zorya U21»Lviv U21»Zorya U21»null»null»1.83»3.85»3.29»-1.46»W,L,W,D,L,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Kaukab-Shapira»Hapoel Kaukab»Shapira»null»null»2.39»3.31»2.58»-0.19»W,W,L»W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»M. Tzur Shalom-Maccabi Tamra»M. Tzur Shalom»Maccabi Tamra»null»null»2.53»3.12»2.55»-0.02»L,W,L»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Hak. Ramat Gan-Hapoel Kfar Shalem»Hak. Ramat Gan»Hapoel Kfar Shalem»null»null»2.11»3.33»3.05»-0.94»W,W,D,L,W,W»W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Armenia»Premier League»FC Yerevan-Ararat Yerevan»FC Yerevan»Ararat Yerevan»null»null»5.9»4.5»1.37»4.53»L,L,L,L,L,L»L,W,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Herzliya-M. Ironi Kiryat»H. Herzliya»M. Ironi Kiryat»null»null»1.9»3.34»3.52»-1.62»L,L,D,L»L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Yavne-Agudat Sport Ashdod»Maccabi Yavne»Agudat Sport Ashdod»null»null»2.53»3.2»2.44»0.09»L,W,L,L»W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Ufa U19-Akhmat Grozny U19»Ufa U19»Akhmat Grozny U19»null»null»4.5»4.45»1.52»2.98»L,L,D,L,L»L,W,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Vorskla Poltava U21-Mariupol U21»Vorskla Poltava U21»Mariupol U21»null»null»1.1»8.17»13.07»-11.97»L,W,W,W,W,D»W,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Bnei Ar'ara 'Ara-Ironi Baka»Hapoel Bnei Ar'ara 'Ara»Ironi Baka»null»null»3.3»3.52»1.92»1.38»L,W»D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Marmorek-M. Herzliya»H. Marmorek»M. Herzliya»null»null»1.82»3.23»3.89»-2.07»W,W,W,L,L,L»W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Jaffa-Hapoel Azor»Maccabi Jaffa»Hapoel Azor»null»null»1.83»3.25»3.83»-2»L,D»L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Kiryat Gat-Nordia Jerusalem»Kiryat Gat»Nordia Jerusalem»null»null»5.64»3.7»1.49»4.15»L,L,L»W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»U19 League»Opava U19-Pribram U19»Opava U19»Pribram U19»null»null»2.12»4.14»2.53»-0.41»L,W,L,W,L,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Charlton U23-Swansea U23»Charlton U23»Swansea U23»null»null»3.21»4.05»1.86»1.35»W,L,L,W,D,W»W,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Hong Kong»Premier League»Southern District-Kitchee»Southern District»Kitchee»null»null»3.57»3.8»1.79»1.78»D,W,L,L,W,W»D,W,W,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Ironi Tiberias-Hapoel Iksal Imad»Ironi Tiberias»Hapoel Iksal Imad»null»null»3.13»3.3»2.02»1.11»L,D,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»MS Tira-Hapoel Bnei Zalfa»MS Tira»Hapoel Bnei Zalfa»null»null»2.25»3.25»2.76»-0.51»L,D,D»W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Shimshon Kafr Qasim-Ironi Or Yehuda»Shimshon Kafr Qasim»Ironi Or Yehuda»null»null»2.36»3.23»2.7»-0.34»W,L,L»L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Esteghlal F.C.-Gol Gohar»Esteghlal F.C.»Gol Gohar»null»null»1.53»3.51»6.33»-4.8»W,L,D,L,W,D»L,L,L,D,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Paykan-Naft M.I.S»Paykan»Naft M.I.S»null»null»1.86»3.15»4.19»-2.33»W,W,L,L,L,W»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Primavera 1 2019/2020»Sampdoria U19-Lazio U19»Sampdoria U19»Lazio U19»null»null»2»3.49»3.04»-1.04»L,L,W,L,W,D»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Burundi»Primus League»Inter Star-Dynamik»Inter Star»Dynamik»null»null»3.98»3.07»1.83»2.15»D,W,L,D»W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Turkey W-Estonia W»Turkey W»Estonia W»null»null»1.13»7.42»16.16»-15.03»L,L,W,L,L,L»L,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Hapoel Katamon-Hapoel Afula»Hapoel Katamon»Hapoel Afula»null»null»1.66»3.58»4.6»-2.94»W,W,L,D,W,L»L,L,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Maccabi Petah Tikva-Hapoel Bnei Lod»Maccabi Petah Tikva»Hapoel Bnei Lod»null»null»1.46»4.11»6.06»-4.6»W,W,D,D,W,L»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»MS Kafr Qasim-Hapoel Petah Tikva»MS Kafr Qasim»Hapoel Petah Tikva»null»null»2.8»3.19»2.34»0.46»D,L,L,D,D,L»L,L,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»H. Akko-Beitar Tel Aviv»H. Akko»Beitar Tel Aviv»null»null»2.29»3.31»2.8»-0.51»L,W,L,W,D,D»L,W,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Nof Hagalil-Hap. Ramat Gan»Nof Hagalil»Hap. Ramat Gan»null»null»2.51»3.22»2.56»-0.05»W,L,L,L»W,D,L,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North Macedonia»1. MFL»Rabotnicki-Renova»Rabotnicki»Renova»null»null»1.82»3.39»3.89»-2.07»D,W,L,W,W,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»PFL - South»Krasnodar 3-Inter Cherkessk»Krasnodar 3»Inter Cherkessk»null»null»2.12»3.4»2.92»-0.8»L,L,L,D,L,L»L,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Rwanda»National Football league»AS Kigali-APR»AS Kigali»APR»null»null»2.93»3.04»2.27»0.66»L,D,D,W,D,L»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Radnicki 1923-Buducnost Dobanovci»Radnicki 1923»Buducnost Dobanovci»null»null»1.62»3.3»5.2»-3.58»L,L,L,W,D,W»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Din. Vranje-Novi Pazar»Din. Vranje»Novi Pazar»null»null»1.81»3.25»3.98»-2.17»L,W,D,D,D,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Uganda»Premier League»Express-Police»Express»Police»null»null»2.1»2.79»3.57»-1.47»L,L,W,L,D»W,D,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Oman Club-Al Nasr»Oman Club»Al Nasr»null»null»2.64»3.3»2.34»0.3»L,L,L,L,W,D»L,D,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Bahla-Dhofar»Bahla»Dhofar»null»null»3.76»3.28»1.84»1.92»D,D,D,L,W»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Al Nahda-Al Rustaq»Al Nahda»Al Rustaq»null»null»2.31»3.17»2.76»-0.45»W,W,D,L,W,W»D,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Slovakia U19 W-North Macedonia U19 W»Slovakia U19 W»North Macedonia U19 W»null»null»1»19.67»54»-53»D,L,L,L,W,W»L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Nassaji Mazandaran-Machine Sazi»Nassaji Mazandaran»Machine Sazi»null»null»1.99»3.05»3.85»-1.86»L,D,W,W,D,W»L,L,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sepahan-Zob Ahan»Sepahan»Zob Ahan»null»null»1.71»3.23»5.18»-3.47»W,D,D,W,W,L»W,D,D,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sanat Naft-Saipa»Sanat Naft»Saipa»null»null»2.49»2.92»2.87»-0.38»W,W,D,L,D,W»W,L,L,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahin Bushehr-Foolad»Shahin Bushehr»Foolad»null»null»3.45»3.05»2.1»1.35»W,L,L,L,W,W»L,W,D,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Austria U19 W-Latvia U19 W»Austria U19 W»Latvia U19 W»null»null»1.01»26»32»-30.99»W,D,W,L,W,W»L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Slavia Sofia-Tsarsko Selo»Slavia Sofia»Tsarsko Selo»null»null»1.46»4.01»6.16»-4.7»W,L,L,D,W,D»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga North»Hannover II-Hamburger SV II»Hannover II»Hamburger SV II»null»null»2.52»3.49»2.53»-0.01»D,D,L,L,W,L»L,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Al Fujairah-Khorfakkan»Al Fujairah»Khorfakkan»null»null»2.44»3.58»2.45»-0.01»L,W,W,D,L,W»D,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Ajman-Al Wasl»Ajman»Al Wasl»null»null»2.41»3.62»2.46»-0.05»D,L,D,D,W,W»D,L,W,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Shahaniya-Umm-Salal»Al Shahaniya»Umm-Salal»null»null»3.1»3.72»2.01»1.09»L,L,L,L,W,W»L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahr Khodrou-Persepolis»Shahr Khodrou»Persepolis»null»null»2.56»2.83»2.87»-0.31»W,D,L,W,W»W,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bahrain»Premier League»Busaiteen-Al Riffa»Busaiteen»Al Riffa»null»null»3.35»3.32»1.97»1.38»L,D,D,W,W,L»L,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»Division 2»Alki Oroklini-Aris»Alki Oroklini»Aris»null»null»2.1»3.44»2.85»-0.75»L,L,W,W,W,L»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Denmark W-Bosnia & Herzegovina W»Denmark W»Bosnia & Herzegovina W»null»null»1.02»15.72»30.86»-29.84»W,W,L,W,W,W»W,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Tractor-Pars Janoobi Jam»Tractor»Pars Janoobi Jam»null»null»1.51»3.71»6.22»-4.71»W,W,W,W,D,D»L,D,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»FC Botosani-Sepsi Sf. Gheorghe»FC Botosani»Sepsi Sf. Gheorghe»null»null»1.97»3.22»3.96»-1.99»W,W,L,D,D,L»D,W,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Al Qadisiya-Al Jabalain»Al Qadisiya»Al Jabalain»null»null»1.49»3.64»6.01»-4.52»W,W,W,W,D,W»W,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Slovakia»2. liga»Podbrezova-Samorin»Podbrezova»Samorin»null»null»1.51»4.04»4.91»-3.4»L,W,W,W,L,W»W,L,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Fateh-Al-Raed»Al Fateh»Al-Raed»null»null»2.38»3.29»2.69»-0.31»L,L,L,L,L,D»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Malta W-Italy W»Malta W»Italy W»null»null»35.25»21.54»1.01»34.24»L,L,L,W»W,W,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Lithuania W-Switzerland W»Lithuania W»Switzerland W»null»null»32.17»17.42»1.02»31.15»L,L,D,W,L»W,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Finland»Ykkonen»MyPa-TPV»MyPa»TPV»null»null»2.3»3.6»2.74»-0.44»D,L,W,W,D,L»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Lithuania»I Lyga»Banga-Nevezis Kedainiai»Banga»Nevezis Kedainiai»null»null»1.76»4»3.4»-1.64»L,D,W,L,W,W»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Najran-Al Ansar»Najran»Al Ansar»null»null»2»3.26»3.3»-1.3»W,L,D,D,D,D»L,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Mirbat-Seeb»Mirbat»Seeb»null»null»4»3.55»1.73»2.27»L,D,L,L,L,L»W,L,D,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Belarus W-Norway W»Belarus W»Norway W»null»null»30.49»15.46»1.02»29.47»W,W,W,L,L,W»W,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Croatia»1. HNL»Istra 1961-Zapresic»Istra 1961»Zapresic»null»null»2.03»3.29»3.57»-1.54»D,W,L,L,D,D»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»First Division»AEK Larnaca-Achnas»AEK Larnaca»Achnas»null»null»1.41»4.24»6.4»-4.99»D,D,W,W,W,D»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»1. Liga»Slovacko-Liberec»Slovacko»Liberec»null»null»2.21»3.21»3.27»-1.06»D,W,D,L,D,W»W,W,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»Division 2»Jihlava-Sokolov»Jihlava»Sokolov»null»null»1.32»4.64»8»-6.68»D,L,W,W,W,L»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»MSFL»Kromeriz-Dolni Benesov»Kromeriz»Dolni Benesov»null»null»1.18»6.92»8.78»-7.6»W,L,W,D,W,W»D,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Albania W-Portugal W»Albania W»Portugal W»null»null»30.31»16.66»1.02»29.29»L,L,L,L,L,L»L,W,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Latvia W-Slovakia W»Latvia W»Slovakia W»null»null»14.37»7.45»1.13»13.24»L,D,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Dunkerque-Laval»Dunkerque»Laval»null»null»2»3.16»3.69»-1.69»D,W,L,L,W,W»L,W,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Plock-Arka Gdynia»Plock»Arka Gdynia»null»null»2.42»3.31»2.89»-0.47»W,W,W,W,L,W»D,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Backa-Graficar Beograd»Backa»Graficar Beograd»null»null»2.26»3.25»2.75»-0.49»W,L,L,L,L,W»L,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Super Liga»Vojvodina-Sp. Subotica»Vojvodina»Sp. Subotica»null»null»1.41»4.24»6.23»-4.82»W,W,L,W,L,W»L,W,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»1. Lig»Altay-Bursaspor»Altay»Bursaspor»null»null»2.05»3.47»3.28»-1.23»D,D,W,W,D,L»W,W,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»FC Juniors-A. Klagenfurt»FC Juniors»A. Klagenfurt»null»null»3.62»3.92»1.84»1.78»W,L,L,L,W,W»D,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Traiskirchen-Wiener Sportklub»Traiskirchen»Wiener Sportklub»null»null»2.9»3.48»2.14»0.76»L,L,L,W,L,W»W,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Darmstadt-Karlsruher»Darmstadt»Karlsruher»null»null»2.49»3.29»2.82»-0.33»D,L,L,D,L,W»D,D,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Stuttgart-Wehen»Stuttgart»Wehen»null»null»1.32»5.46»8.2»-6.88»W,W,W,W,D,W»W,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Khor-Al Arabi»Al Khor»Al Arabi»null»null»4.14»4.16»1.63»2.51»L,L,L,W,D,D»W,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Burkina Faso-Ghana»Burkina Faso»Ghana»null»null»5.45»3.64»1.56»3.89»W,W,W,L,D,W»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Mauritania-Gambia»Mauritania»Gambia»null»null»2.3»3»3.09»-0.79»L,D,D,L,L,W»L,D,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Gleisdorf-Kalsdorf»Gleisdorf»Kalsdorf»null»null»1.72»3.86»3.9»-2.18»W,W,W,W,L,D»D,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Allerheiligen-St. Anna»Allerheiligen»St. Anna»null»null»2.2»3.48»2.75»-0.55»D,W,D,W,W,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Bad Gleichenberg-Ried (Am)»Bad Gleichenberg»Ried (Am)»null»null»1.47»4.23»5.18»-3.71»L,W,L,W,W,L»L,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Wels-WSC Wels»Wels»WSC Wels»null»null»4.88»3.96»1.54»3.34»L,L,D,L,D,L»W,L,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Vocklamarkt-SC Weiz»Vocklamarkt»SC Weiz»null»null»2.09»3.59»2.86»-0.77»W,W,W,L,D,L»W,L,W,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»SK Rapid Vienna (Am)-Ebreichsdorf»SK Rapid Vienna (Am)»Ebreichsdorf»null»null»2.69»3.63»2.19»0.5»W,D,W,W,W,W»W,W,W,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Neusiedl-Wiener Linien»Neusiedl»Wiener Linien»null»null»1.66»3.79»4.16»-2.5»W,L,W,W,W,L»W,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Seekirchen-Grodig»Seekirchen»Grodig»null»null»1.9»3.74»3.4»-1.5»W,D,D,W,L,L»L,W,D,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»SAK 1914-Wals Grunau»SAK 1914»Wals Grunau»null»null»1.23»6.25»8.66»-7.43»W,W,W,W,W,W»L,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Johann-Kuchl»Johann»Kuchl»null»null»1.73»4.24»3.78»-2.05»L,L,L,L,W,W»W,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Cherno More-Beroe»Cherno More»Beroe»null»null»1.83»3.36»3.98»-2.15»D,W,W,D,D,L»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Denmark»Superliga»Nordsjaelland-Lyngby»Nordsjaelland»Lyngby»null»null»1.43»4.96»6.51»-5.08»L,W,W,L,D,L»W,W,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Slovenia W-Netherlands W»Slovenia W»Netherlands W»null»null»25.64»13.37»1.03»24.61»W,L,L,L,W,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»3. Liga»Uerdingen-Magdeburg»Uerdingen»Magdeburg»null»null»3.32»3.53»2.04»1.28»W,L,W,L,D,L»W,D,D,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Bayern Nord»Eltersdorf-Sand»Eltersdorf»Sand»null»null»1.34»5.03»6.21»-4.87»W,L,W,W,W,L»L,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga NOFV-Nord»TB Berlin-Ludwigsfelder»TB Berlin»Ludwigsfelder»null»null»1.3»5.38»6.49»-5.19»D,W,W,W,W,W»L,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Gonsenheim-Schott Mainz»Gonsenheim»Schott Mainz»null»null»4.06»4.42»1.59»2.47»L,W,W,W,W,D»W,W,W,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga Nordost»Halberstadt-Lichtenberg»Halberstadt»Lichtenberg»null»null»1.99»3.55»3.38»-1.39»L,L,D,D,L,D»L,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga West»Verl-Lotte»Verl»Lotte»null»null»1.65»3.91»4.5»-2.85»W,W,W,W,W,W»W,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Norway»Eliteserien»Mjondalen-Stromsgodset»Mjondalen»Stromsgodset»null»null»2.29»3.5»2.97»-0.68»L,L,L,L,L,W»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Legnica-Puszcza»Legnica»Puszcza»null»null»1.6»3.7»5.4»-3.8»L,W,W,L,W,L»L,L,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Sweden»Division 2 - Norrland»IFK Ostersund-Ytterhogdals»IFK Ostersund»Ytterhogdals»null»null»4.33»4.32»1.53»2.8»W,L,L,L,D,L»W,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Wacker Innsbruck-Kapfenberg»Wacker Innsbruck»Kapfenberg»null»null»1.76»3.87»3.99»-2.23»L,W,D,W,L,W»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Ried-Vorwarts Steyr»Ried»Vorwarts Steyr»null»null»1.35»5.14»6.89»-5.54»W,W,W,D,W,L»D,L,D,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Floridsdorfer AC-Amstetten»Floridsdorfer AC»Amstetten»null»null»2.46»3.46»2.61»-0.15»L,L,L,D,W,D»L,W,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Horn-BW Linz»Horn»BW Linz»null»null»2.3»3.61»2.74»-0.44»L,L,W,W,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Ittihad FC-Al-Hazem»Al Ittihad FC»Al-Hazem»null»null»1.64»3.86»4.42»-2.78»W,L,L,W,L,W»W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Bani Yas-Al Wahda»Bani Yas»Al Wahda»null»null»2.75»3.62»2.19»0.56»D,D,W,D,L,W»W,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Drassburg-Mauerwerk»Drassburg»Mauerwerk»null»null»2.25»3.52»2.64»-0.39»W,L,L,W,L,L»L,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Pro League U21»Club Brugge U21-St. Liege U21»Club Brugge U21»St. Liege U21»null»null»4.43»4.67»1.52»2.91»L,D,W»L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Hamburg»TuS Osdorf-Sasel»TuS Osdorf»Sasel»null»null»5.43»5.15»1.38»4.05»W,L,L,L,L,L»W,D,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Hertha Wiesbach-Worms»Hertha Wiesbach»Worms»null»null»4.03»4.48»1.58»2.45»L,L,L,W,L,L»W,W,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»III Liga - Group I 2019/2020»Swit-Bron Radom»Swit»Bron Radom»null»null»1.81»3.74»3.47»-1.66»L,L,L,W,W,W»D,W,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»U Craiova-Poli Iasi»U Craiova»Poli Iasi»null»null»1.59»3.71»5.84»-4.25»W,W,W,W,W,D»D,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Yeni Malatyaspor-Denizlispor»Yeni Malatyaspor»Denizlispor»null»null»2.18»3.45»3.22»-1.04»L,D,L,L,W,L»L,W,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Fenerbahce-Antalyaspor»Fenerbahce»Antalyaspor»null»null»1.35»5.15»8.11»-6.76»D,W,L,D,W,W»W,L,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belarus»Vysshaya Liga»Gorodeja-FC Minsk»Gorodeja»FC Minsk»null»null»1.62»3.69»4.61»-2.99»W,D,L,L,W,D»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»1.Liga Classic Group 2»Grasshopper II-Baden»Grasshopper II»Baden»null»null»2.16»4.04»2.55»-0.39»»D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Egypt»Premier League»Smouha-Enppi»Smouha»Enppi»null»null»2.39»3.02»2.99»-0.6»D,L,L,W,L,D»L,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Hull U23-Newcastle Utd U23»Hull U23»Newcastle Utd U23»null»null»2.44»3.79»2.36»0.08»W,W,W,L,W,L»L,L,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Scunthorpe U23-West Brom U23»Scunthorpe U23»West Brom U23»null»null»4.53»4.6»1.5»3.03»W»W,L,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Valenciennes-Grenoble»Valenciennes»Grenoble»null»null»2.48»3.05»3.03»-0.55»L,D,D,W,W,L»W,D,W,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Le Mans-Chambly»Le Mans»Chambly»null»null»2.7»2.92»2.85»-0.15»L,L,L,W,W,L»L,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Caen-Chateauroux»Caen»Chateauroux»null»null»2.11»3.03»3.89»-1.78»L,L,L,L,D,L»W,D,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Nancy-Niort»Nancy»Niort»null»null»1.85»3.22»4.71»-2.86»D,W,D,D,W,L»D,D,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Paris FC-Troyes»Paris FC»Troyes»null»null»3.29»2.97»2.37»0.92»L,L,D,L,W,L»L,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Guingamp-Rodez»Guingamp»Rodez»null»null»1.97»3.2»4.13»-2.16»W,L,D,W,L,D»L,L,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Lorient-AC Ajaccio»Lorient»AC Ajaccio»null»null»1.76»3.31»5.18»-3.42»W,W,W,L,W,L»W,W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Sochaux-Clermont»Sochaux»Clermont»null»null»2.85»2.85»2.79»0.06»W,W,D,L,W,L»D,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Beziers-Bastia Borgo»Beziers»Bastia Borgo»null»null»2.07»3.07»3.61»-1.54»D,W,L,D,L,L»W,D,W,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Bourg Peronnas-Creteil»Bourg Peronnas»Creteil»null»null»2.16»3.07»3.38»-1.22»W,W,L,W,D,W»D,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»GFC Ajaccio-Cholet»GFC Ajaccio»Cholet»null»null»2.14»3.05»3.4»-1.26»L,D,W,W,D,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Lyon Duchere-Boulogne»Lyon Duchere»Boulogne»null»null»2.13»3»3.53»-1.4»W,D,L,D,W,W»L,D,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Pau-Villefranche»Pau»Villefranche»null»null»2.29»3.08»3.07»-0.78»W,L,W,D,W,W»D,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Quevilly Rouen-Le Puy»Quevilly Rouen»Le Puy»null»null»2.3»3.03»3.11»-0.81»L,L,D,L,D,L»L,L,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Red Star-Avranches»Red Star»Avranches»null»null»2.17»3.13»3.25»-1.08»L,D,W,L,L,L»D,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Toulon-Concarneau»Toulon»Concarneau»null»null»2.37»2.92»3.1»-0.73»D,L,L,D,L,D»W,L,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Cambuur-Excelsior»Cambuur»Excelsior»null»null»1.79»4.06»3.74»-1.95»W,W,W,W,W,L»W,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Dordrecht-Jong Utrecht»Dordrecht»Jong Utrecht»null»null»2.03»3.86»3.15»-1.12»L,W,D,D,D,L»D,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Breda-Nijmegen»Breda»Nijmegen»null»null»1.92»3.73»3.52»-1.6»W,W,W,D,L,W»D,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong PSV-FC Volendam»Jong PSV»FC Volendam»null»null»3.42»3.91»1.91»1.51»L,L,L,W,L,L»L,W,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»G.A. Eagles-Jong AZ»G.A. Eagles»Jong AZ»null»null»1.55»4.27»5.15»-3.6»D,D,W,D,L,W»D,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Den Bosch-Oss»Den Bosch»Oss»null»null»1.93»3.74»3.49»-1.56»D,W,L,D,L,D»L,W,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Graafschap-Almere City»Graafschap»Almere City»null»null»1.64»4.18»4.45»-2.81»D,W,D,W,D,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong Ajax-Eindhoven FC»Jong Ajax»Eindhoven FC»null»null»1.46»4.85»5.58»-4.12»W,D,W,L,W,W»W,L,D,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Telstar-Roda»Telstar»Roda»null»null»1.73»3.93»4.19»-2.46»L,L,W,L,L,W»D,L,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Helmond-Maastricht»Helmond»Maastricht»null»null»2.79»3.52»2.33»0.46»D,L,L,W,L,D»L,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eredivisie»Groningen-Waalwijk»Groningen»Waalwijk»null»null»1.38»5.03»7.34»-5.96»L,L,W,L,L,D»L,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»CD Baztan-Mutilvera»CD Baztan»Mutilvera»null»null»4.11»3.38»1.72»2.39»L,W,W,W,L,W»W,W,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»Challenge League»Lausanne-Winterthur»Lausanne»Winterthur»null»null»1.5»4.37»5.24»-3.74»D,W,W,W,L,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Scotland»Championship»Alloa-Dundee Utd»Alloa»Dundee Utd»null»null»6.3»4.46»1.45»4.85»D,L,L,W,W,L»W,W,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera B Metropolitana»Flandria-Tristan Suarez»Flandria»Tristan Suarez»null»null»2.43»2.96»2.88»-0.45»L,L,W,L,D,L»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Hungary W-Sweden W»Hungary W»Sweden W»null»null»22.81»11.87»1.04»21.77»L,L,L,D,W,L»W,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»Subiza-Beti Onak»Subiza»Beti Onak»null»null»1.99»3.22»3.24»-1.25»L,L,D,D,W,W»D,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Jupiler League»Charleroi-Anderlecht»Charleroi»Anderlecht»null»null»2.48»3.42»2.77»-0.29»D,W,L,W,W,L»D,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Proximus League»Lommel SK-KSV Roeselare»Lommel SK»KSV Roeselare»null»null»1.82»3.48»4.19»-2.37»D,L,L,D,D,L»L,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Leeds U23-Birmingham U23»Leeds U23»Birmingham U23»null»null»2.05»3.68»2.95»-0.9»L,L,W,D,D,W»W,D,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Bundesliga»Hertha Berlin-Dusseldorf»Hertha Berlin»Dusseldorf»null»null»1.84»3.84»4.19»-2.35»W,W,L,L,L,W»L,L,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Slask Wroclaw-Jagiellonia»Slask Wroclaw»Jagiellonia»null»null»2.19»3.28»3.33»-1.14»L,L,D,D,D,W»L,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Ammanford-Goytre Utd»Ammanford»Goytre Utd»null»null»2.13»3.84»2.66»-0.53»W,L,D,L,L,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Cambrian & Clydach-Briton Ferry»Cambrian & Clydach»Briton Ferry»null»null»1.68»4.04»3.82»-2.14»L,L,W,W,W,W»L,L,D,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Taffs Well-Llanelli»Taffs Well»Llanelli»null»null»4.05»4.28»1.6»2.45»W,L,W,W,L,D»W,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»World»Olympic Games Women»Antigua and Barbuda W-Dominican Republic W»Antigua and Barbuda W»Dominican Republic W»null»null»12.31»7.17»1.15»11.16»»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Championship»Birmingham-Middlesbrough»Birmingham»Middlesbrough»null»null»2.43»3.11»3.22»-0.79»L,L,L,W,W,L»D,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 1»Amiens-Marseille»Amiens»Marseille»null»null»3.28»3.24»2.31»0.97»D,L,W,D,L,L»D,D,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Bohemians-Cork City»Bohemians»Cork City»null»null»1.77»3.49»4.57»-2.8»L,D,W,L,L,W»L,D,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»St. Patricks-Waterford»St. Patricks»Waterford»null»null»1.82»3.64»4.11»-2.29»D,D,W,L,W,W»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Dundalk-Derry City»Dundalk»Derry City»null»null»2.12»3.61»3.13»-1.01»W,W,W,W,W,W»W,D,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Cabinteely-Longford»Cabinteely»Longford»null»null»2.46»3.28»2.73»-0.27»W,W,D,L,W,D»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Championship»Portadown-Newry City»Portadown»Newry City»null»null»1.75»4»3.46»-1.71»W,W,W,L,L,W»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Crusaders-Linfield»Crusaders»Linfield»null»null»2.59»3.38»2.41»0.18»W,L,W,W,W,D»W,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Glentoran-Cliftonville»Glentoran»Cliftonville»null»null»2.59»3.41»2.4»0.19»L,W,L,W,W,W»L,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Larne-Glenavon»Larne»Glenavon»null»null»1.74»3.59»4.16»-2.42»D,D,W,L,D,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Stal Mielec-GKS Jastrzebie»Stal Mielec»GKS Jastrzebie»null»null»1.64»3.6»5.14»-3.5»L,W,W,L,L,W»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Caernarfon-TNS»Caernarfon»TNS»null»null»5.64»4.38»1.46»4.18»W,L,W,W,D,W»L,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Penybont-Aberystwyth»Penybont»Aberystwyth»null»null»2.27»3.57»2.71»-0.44»L,L,W,L,L,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Finn Harps-UC Dublin»Finn Harps»UC Dublin»null»null»1.68»3.88»4.59»-2.91»D,L,L,L,W,W»L,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Serie B»Perugia-Pisa»Perugia»Pisa»null»null»1.95»3.19»4.2»-2.25»L,W,D,D,W,W»D,L,D,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga»Betis-Eibar»Betis»Eibar»null»null»2.01»3.67»3.72»-1.71»L,W,D,W,L,L»W,D,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga2»Alcorcon-Albacete»Alcorcon»Albacete»null»null»2.15»3.09»3.66»-1.51»D,L,D,W,D,L»D,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Druids-Bala»Druids»Bala»null»null»2.6»3.42»2.43»0.17»L,D,L,L,D,W»W,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»Libertas-Cosmos»Libertas»Cosmos»null»null»2»3.63»3.03»-1.03»L,L,L,W,W,L»L,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»San Giovanni-Tre Penne»San Giovanni»Tre Penne»null»null»3.93»3.94»1.68»2.25»L,L,L,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Spain W-Azerbaijan W»Spain W»Azerbaijan W»null»null»1.01»19.97»43.18»-42.17»L,L,L,W,W,W»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Portugal»League Cup»Chaves-Santa Clara»Chaves»Santa Clara»null»null»2.4»3.13»3»-0.6»W,L,L,W,W,W»W,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Junior-La Equidad»Junior»La Equidad»1»0»1.54»3.71»6.39»-4.85»D,W,D,D,W,D»D,W,D,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»America MG-CRB»America MG»CRB»1»0»1.75»3.33»4.86»-3.11»L,W,W,W,D,D»D,D,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Deportes Tolima-Dep. Cali»Deportes Tolima»Dep. Cali»5»2»1.98»3.19»3.89»-1.91»L,L,W,D,D,W»W,W,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»San Carlos-Alianza FC»San Carlos»Alianza FC»1»0»2.17»3.15»3.18»-1.01»L,W,D»W,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Philippines»PFL»Stallion-Philippine Air Force»Stallion»Philippine Air Force»null»null»1.02»21»27»-25.98»D,W,L,D,W,W»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera Nacional»Instituto-Quilmes»Instituto»Quilmes»1»1»2.22»2.78»3.65»-1.43»D,W,W,W,D,L»D,D,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ecuador»Copa Ecuador»LDU Quito-Emelec»LDU Quito»Emelec»null»null»1.76»3.26»4.66»-2.9»W,W,W,D,D,W»W,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»Vitoria-Sport Recife»Vitoria»Sport Recife»2»2»3.31»2.96»2.3»1.01»L,D,L,L,W,D»W,W,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Santa Fe-Bucaramanga»Santa Fe»Bucaramanga»2»0»1.53»3.67»6.79»-5.26»W,W,W,W,L,L»L,D,W,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»Comunicaciones-Olimpia»Comunicaciones»Olimpia»0»0»2.21»3.1»3.25»-1.04»L,D,W,D,W»W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persewar Waropen-Persis Solo»Persewar Waropen»Persis Solo»1»0»1.62»3.46»5»-3.38»W,W,D,L,W,L»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Sochi U19-Krylya Sovetov Samara U19»Sochi U19»Krylya Sovetov Samara U19»null»null»2.98»3.56»2.1»0.88»W,L,D,L,L,L»L,L,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 1»Bhayangkara Utd-PSS Sleman»Bhayangkara Utd»PSS Sleman»null»null»1.77»3.5»4.33»-2.56»D,D,W,D,L,L»D,L,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»PSIM Yogyakarta-Sulut Utd»PSIM Yogyakarta»Sulut Utd»null»null»1.54»3.71»5.58»-4.04»L,W,L,L,W,W»W,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persik Kediri-Madura FC»Persik Kediri»Madura FC»null»null»1.32»4.46»8.13»-6.81»L,W,W,L,D,W»L,L,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Asi Gilboa-H. Migdal HaEmek»H. Asi Gilboa»H. Migdal HaEmek»null»null»3.82»3.83»1.72»2.1»L,L,L»W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»France U19 W-Romania U19 W»France U19 W»Romania U19 W»null»null»1.02»19»50.5»-49.48»W,W,W,D,W,W»D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Switzerland U19 W-Israel U19 W»Switzerland U19 W»Israel U19 W»null»null»1.05»12.2»20.35»-19.3»W,D,W,L,W,W»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Kazakhstan»First Division 2019»Zhetysu 2-Kairat Academy»Zhetysu 2»Kairat Academy»null»null»1.91»3.4»3.48»-1.57»D,D,D,W,D»D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Rubin Kazan U19-Tambov U19»Rubin Kazan U19»Tambov U19»null»null»2.15»3.52»2.89»-0.74»W,D,W,W,D,D»W,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Bikat Hayarden-Holon Yermiyahu»H. Bikat Hayarden»Holon Yermiyahu»null»null»2.54»3.25»2.45»0.09»W,L,W»L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Japan»J1 League»G Osaka-Sapporo»G Osaka»Sapporo»null»null»2.41»3.63»2.66»-0.25»W,L,W,L,D,D»D,L,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»FK Orenburg U19-Dynamo Moscow U19»FK Orenburg U19»Dynamo Moscow U19»null»null»8.05»6.04»1.24»6.81»L,L,L,D,L,W»W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Lviv U21-Zorya U21»Lviv U21»Zorya U21»null»null»1.83»3.85»3.29»-1.46»W,L,W,D,L,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Kaukab-Shapira»Hapoel Kaukab»Shapira»null»null»2.39»3.31»2.58»-0.19»W,W,L»W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»M. Tzur Shalom-Maccabi Tamra»M. Tzur Shalom»Maccabi Tamra»null»null»2.53»3.12»2.55»-0.02»L,W,L»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Hak. Ramat Gan-Hapoel Kfar Shalem»Hak. Ramat Gan»Hapoel Kfar Shalem»null»null»2.11»3.33»3.05»-0.94»W,W,D,L,W,W»W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Armenia»Premier League»FC Yerevan-Ararat Yerevan»FC Yerevan»Ararat Yerevan»null»null»5.9»4.5»1.37»4.53»L,L,L,L,L,L»L,W,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Herzliya-M. Ironi Kiryat»H. Herzliya»M. Ironi Kiryat»null»null»1.9»3.34»3.52»-1.62»L,L,D,L»L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Yavne-Agudat Sport Ashdod»Maccabi Yavne»Agudat Sport Ashdod»null»null»2.53»3.2»2.44»0.09»L,W,L,L»W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Ufa U19-Akhmat Grozny U19»Ufa U19»Akhmat Grozny U19»null»null»4.5»4.45»1.52»2.98»L,L,D,L,L»L,W,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Vorskla Poltava U21-Mariupol U21»Vorskla Poltava U21»Mariupol U21»null»null»1.1»8.17»13.07»-11.97»L,W,W,W,W,D»W,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Bnei Ar'ara 'Ara-Ironi Baka»Hapoel Bnei Ar'ara 'Ara»Ironi Baka»null»null»3.3»3.52»1.92»1.38»L,W»D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Marmorek-M. Herzliya»H. Marmorek»M. Herzliya»null»null»1.82»3.23»3.89»-2.07»W,W,W,L,L,L»W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Jaffa-Hapoel Azor»Maccabi Jaffa»Hapoel Azor»null»null»1.83»3.25»3.83»-2»L,D»L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Kiryat Gat-Nordia Jerusalem»Kiryat Gat»Nordia Jerusalem»null»null»5.64»3.7»1.49»4.15»L,L,L»W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»U19 League»Opava U19-Pribram U19»Opava U19»Pribram U19»null»null»2.12»4.14»2.53»-0.41»L,W,L,W,L,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Charlton U23-Swansea U23»Charlton U23»Swansea U23»null»null»3.21»4.05»1.86»1.35»W,L,L,W,D,W»W,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Hong Kong»Premier League»Southern District-Kitchee»Southern District»Kitchee»null»null»3.57»3.8»1.79»1.78»D,W,L,L,W,W»D,W,W,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Ironi Tiberias-Hapoel Iksal Imad»Ironi Tiberias»Hapoel Iksal Imad»null»null»3.13»3.3»2.02»1.11»L,D,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»MS Tira-Hapoel Bnei Zalfa»MS Tira»Hapoel Bnei Zalfa»null»null»2.25»3.25»2.76»-0.51»L,D,D»W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Shimshon Kafr Qasim-Ironi Or Yehuda»Shimshon Kafr Qasim»Ironi Or Yehuda»null»null»2.36»3.23»2.7»-0.34»W,L,L»L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Esteghlal F.C.-Gol Gohar»Esteghlal F.C.»Gol Gohar»null»null»1.53»3.51»6.33»-4.8»W,L,D,L,W,D»L,L,L,D,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Paykan-Naft M.I.S»Paykan»Naft M.I.S»null»null»1.86»3.15»4.19»-2.33»W,W,L,L,L,W»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Primavera 1 2019/2020»Sampdoria U19-Lazio U19»Sampdoria U19»Lazio U19»null»null»2»3.49»3.04»-1.04»L,L,W,L,W,D»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Burundi»Primus League»Inter Star-Dynamik»Inter Star»Dynamik»null»null»3.98»3.07»1.83»2.15»D,W,L,D»W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Turkey W-Estonia W»Turkey W»Estonia W»null»null»1.13»7.42»16.16»-15.03»L,L,W,L,L,L»L,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Hapoel Katamon-Hapoel Afula»Hapoel Katamon»Hapoel Afula»null»null»1.66»3.58»4.6»-2.94»W,W,L,D,W,L»L,L,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Maccabi Petah Tikva-Hapoel Bnei Lod»Maccabi Petah Tikva»Hapoel Bnei Lod»null»null»1.46»4.11»6.06»-4.6»W,W,D,D,W,L»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»MS Kafr Qasim-Hapoel Petah Tikva»MS Kafr Qasim»Hapoel Petah Tikva»null»null»2.8»3.19»2.34»0.46»D,L,L,D,D,L»L,L,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»H. Akko-Beitar Tel Aviv»H. Akko»Beitar Tel Aviv»null»null»2.29»3.31»2.8»-0.51»L,W,L,W,D,D»L,W,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Nof Hagalil-Hap. Ramat Gan»Nof Hagalil»Hap. Ramat Gan»null»null»2.51»3.22»2.56»-0.05»W,L,L,L»W,D,L,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North Macedonia»1. MFL»Rabotnicki-Renova»Rabotnicki»Renova»null»null»1.82»3.39»3.89»-2.07»D,W,L,W,W,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»PFL - South»Krasnodar 3-Inter Cherkessk»Krasnodar 3»Inter Cherkessk»null»null»2.12»3.4»2.92»-0.8»L,L,L,D,L,L»L,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Rwanda»National Football league»AS Kigali-APR»AS Kigali»APR»null»null»2.93»3.04»2.27»0.66»L,D,D,W,D,L»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Radnicki 1923-Buducnost Dobanovci»Radnicki 1923»Buducnost Dobanovci»null»null»1.62»3.3»5.2»-3.58»L,L,L,W,D,W»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Din. Vranje-Novi Pazar»Din. Vranje»Novi Pazar»null»null»1.81»3.25»3.98»-2.17»L,W,D,D,D,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Uganda»Premier League»Express-Police»Express»Police»null»null»2.1»2.79»3.57»-1.47»L,L,W,L,D»W,D,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Oman Club-Al Nasr»Oman Club»Al Nasr»null»null»2.64»3.3»2.34»0.3»L,L,L,L,W,D»L,D,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Bahla-Dhofar»Bahla»Dhofar»null»null»3.76»3.28»1.84»1.92»D,D,D,L,W»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Al Nahda-Al Rustaq»Al Nahda»Al Rustaq»null»null»2.31»3.17»2.76»-0.45»W,W,D,L,W,W»D,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Slovakia U19 W-North Macedonia U19 W»Slovakia U19 W»North Macedonia U19 W»null»null»1»19.67»54»-53»D,L,L,L,W,W»L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Nassaji Mazandaran-Machine Sazi»Nassaji Mazandaran»Machine Sazi»null»null»1.99»3.05»3.85»-1.86»L,D,W,W,D,W»L,L,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sepahan-Zob Ahan»Sepahan»Zob Ahan»null»null»1.71»3.23»5.18»-3.47»W,D,D,W,W,L»W,D,D,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sanat Naft-Saipa»Sanat Naft»Saipa»null»null»2.49»2.92»2.87»-0.38»W,W,D,L,D,W»W,L,L,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahin Bushehr-Foolad»Shahin Bushehr»Foolad»null»null»3.45»3.05»2.1»1.35»W,L,L,L,W,W»L,W,D,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Austria U19 W-Latvia U19 W»Austria U19 W»Latvia U19 W»null»null»1.01»26»32»-30.99»W,D,W,L,W,W»L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Slavia Sofia-Tsarsko Selo»Slavia Sofia»Tsarsko Selo»null»null»1.46»4.01»6.16»-4.7»W,L,L,D,W,D»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga North»Hannover II-Hamburger SV II»Hannover II»Hamburger SV II»null»null»2.52»3.49»2.53»-0.01»D,D,L,L,W,L»L,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Al Fujairah-Khorfakkan»Al Fujairah»Khorfakkan»null»null»2.44»3.58»2.45»-0.01»L,W,W,D,L,W»D,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Ajman-Al Wasl»Ajman»Al Wasl»null»null»2.41»3.62»2.46»-0.05»D,L,D,D,W,W»D,L,W,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Shahaniya-Umm-Salal»Al Shahaniya»Umm-Salal»null»null»3.1»3.72»2.01»1.09»L,L,L,L,W,W»L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahr Khodrou-Persepolis»Shahr Khodrou»Persepolis»null»null»2.56»2.83»2.87»-0.31»W,D,L,W,W»W,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bahrain»Premier League»Busaiteen-Al Riffa»Busaiteen»Al Riffa»null»null»3.35»3.32»1.97»1.38»L,D,D,W,W,L»L,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»Division 2»Alki Oroklini-Aris»Alki Oroklini»Aris»null»null»2.1»3.44»2.85»-0.75»L,L,W,W,W,L»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Denmark W-Bosnia & Herzegovina W»Denmark W»Bosnia & Herzegovina W»null»null»1.02»15.72»30.86»-29.84»W,W,L,W,W,W»W,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Tractor-Pars Janoobi Jam»Tractor»Pars Janoobi Jam»null»null»1.51»3.71»6.22»-4.71»W,W,W,W,D,D»L,D,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»FC Botosani-Sepsi Sf. Gheorghe»FC Botosani»Sepsi Sf. Gheorghe»null»null»1.97»3.22»3.96»-1.99»W,W,L,D,D,L»D,W,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Al Qadisiya-Al Jabalain»Al Qadisiya»Al Jabalain»null»null»1.49»3.64»6.01»-4.52»W,W,W,W,D,W»W,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Slovakia»2. liga»Podbrezova-Samorin»Podbrezova»Samorin»null»null»1.51»4.04»4.91»-3.4»L,W,W,W,L,W»W,L,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Fateh-Al-Raed»Al Fateh»Al-Raed»null»null»2.38»3.29»2.69»-0.31»L,L,L,L,L,D»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Malta W-Italy W»Malta W»Italy W»null»null»35.25»21.54»1.01»34.24»L,L,L,W»W,W,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Lithuania W-Switzerland W»Lithuania W»Switzerland W»null»null»32.17»17.42»1.02»31.15»L,L,D,W,L»W,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Finland»Ykkonen»MyPa-TPV»MyPa»TPV»null»null»2.3»3.6»2.74»-0.44»D,L,W,W,D,L»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Lithuania»I Lyga»Banga-Nevezis Kedainiai»Banga»Nevezis Kedainiai»null»null»1.76»4»3.4»-1.64»L,D,W,L,W,W»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Najran-Al Ansar»Najran»Al Ansar»null»null»2»3.26»3.3»-1.3»W,L,D,D,D,D»L,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Mirbat-Seeb»Mirbat»Seeb»null»null»4»3.55»1.73»2.27»L,D,L,L,L,L»W,L,D,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Belarus W-Norway W»Belarus W»Norway W»null»null»30.49»15.46»1.02»29.47»W,W,W,L,L,W»W,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Croatia»1. HNL»Istra 1961-Zapresic»Istra 1961»Zapresic»null»null»2.03»3.29»3.57»-1.54»D,W,L,L,D,D»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»First Division»AEK Larnaca-Achnas»AEK Larnaca»Achnas»null»null»1.41»4.24»6.4»-4.99»D,D,W,W,W,D»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»1. Liga»Slovacko-Liberec»Slovacko»Liberec»null»null»2.21»3.21»3.27»-1.06»D,W,D,L,D,W»W,W,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»Division 2»Jihlava-Sokolov»Jihlava»Sokolov»null»null»1.32»4.64»8»-6.68»D,L,W,W,W,L»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»MSFL»Kromeriz-Dolni Benesov»Kromeriz»Dolni Benesov»null»null»1.18»6.92»8.78»-7.6»W,L,W,D,W,W»D,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Albania W-Portugal W»Albania W»Portugal W»null»null»30.31»16.66»1.02»29.29»L,L,L,L,L,L»L,W,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Latvia W-Slovakia W»Latvia W»Slovakia W»null»null»14.37»7.45»1.13»13.24»L,D,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Dunkerque-Laval»Dunkerque»Laval»null»null»2»3.16»3.69»-1.69»D,W,L,L,W,W»L,W,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Plock-Arka Gdynia»Plock»Arka Gdynia»null»null»2.42»3.31»2.89»-0.47»W,W,W,W,L,W»D,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Backa-Graficar Beograd»Backa»Graficar Beograd»null»null»2.26»3.25»2.75»-0.49»W,L,L,L,L,W»L,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Super Liga»Vojvodina-Sp. Subotica»Vojvodina»Sp. Subotica»null»null»1.41»4.24»6.23»-4.82»W,W,L,W,L,W»L,W,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»1. Lig»Altay-Bursaspor»Altay»Bursaspor»null»null»2.05»3.47»3.28»-1.23»D,D,W,W,D,L»W,W,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»FC Juniors-A. Klagenfurt»FC Juniors»A. Klagenfurt»null»null»3.62»3.92»1.84»1.78»W,L,L,L,W,W»D,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Traiskirchen-Wiener Sportklub»Traiskirchen»Wiener Sportklub»null»null»2.9»3.48»2.14»0.76»L,L,L,W,L,W»W,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Darmstadt-Karlsruher»Darmstadt»Karlsruher»null»null»2.49»3.29»2.82»-0.33»D,L,L,D,L,W»D,D,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Stuttgart-Wehen»Stuttgart»Wehen»null»null»1.32»5.46»8.2»-6.88»W,W,W,W,D,W»W,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Khor-Al Arabi»Al Khor»Al Arabi»null»null»4.14»4.16»1.63»2.51»L,L,L,W,D,D»W,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Burkina Faso-Ghana»Burkina Faso»Ghana»null»null»5.45»3.64»1.56»3.89»W,W,W,L,D,W»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Mauritania-Gambia»Mauritania»Gambia»null»null»2.3»3»3.09»-0.79»L,D,D,L,L,W»L,D,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Gleisdorf-Kalsdorf»Gleisdorf»Kalsdorf»null»null»1.72»3.86»3.9»-2.18»W,W,W,W,L,D»D,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Allerheiligen-St. Anna»Allerheiligen»St. Anna»null»null»2.2»3.48»2.75»-0.55»D,W,D,W,W,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Bad Gleichenberg-Ried (Am)»Bad Gleichenberg»Ried (Am)»null»null»1.47»4.23»5.18»-3.71»L,W,L,W,W,L»L,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Wels-WSC Wels»Wels»WSC Wels»null»null»4.88»3.96»1.54»3.34»L,L,D,L,D,L»W,L,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Vocklamarkt-SC Weiz»Vocklamarkt»SC Weiz»null»null»2.09»3.59»2.86»-0.77»W,W,W,L,D,L»W,L,W,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»SK Rapid Vienna (Am)-Ebreichsdorf»SK Rapid Vienna (Am)»Ebreichsdorf»null»null»2.69»3.63»2.19»0.5»W,D,W,W,W,W»W,W,W,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Neusiedl-Wiener Linien»Neusiedl»Wiener Linien»null»null»1.66»3.79»4.16»-2.5»W,L,W,W,W,L»W,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Seekirchen-Grodig»Seekirchen»Grodig»null»null»1.9»3.74»3.4»-1.5»W,D,D,W,L,L»L,W,D,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»SAK 1914-Wals Grunau»SAK 1914»Wals Grunau»null»null»1.23»6.25»8.66»-7.43»W,W,W,W,W,W»L,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Johann-Kuchl»Johann»Kuchl»null»null»1.73»4.24»3.78»-2.05»L,L,L,L,W,W»W,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Cherno More-Beroe»Cherno More»Beroe»null»null»1.83»3.36»3.98»-2.15»D,W,W,D,D,L»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Denmark»Superliga»Nordsjaelland-Lyngby»Nordsjaelland»Lyngby»null»null»1.43»4.96»6.51»-5.08»L,W,W,L,D,L»W,W,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Slovenia W-Netherlands W»Slovenia W»Netherlands W»null»null»25.64»13.37»1.03»24.61»W,L,L,L,W,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»3. Liga»Uerdingen-Magdeburg»Uerdingen»Magdeburg»null»null»3.32»3.53»2.04»1.28»W,L,W,L,D,L»W,D,D,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Bayern Nord»Eltersdorf-Sand»Eltersdorf»Sand»null»null»1.34»5.03»6.21»-4.87»W,L,W,W,W,L»L,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga NOFV-Nord»TB Berlin-Ludwigsfelder»TB Berlin»Ludwigsfelder»null»null»1.3»5.38»6.49»-5.19»D,W,W,W,W,W»L,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Gonsenheim-Schott Mainz»Gonsenheim»Schott Mainz»null»null»4.06»4.42»1.59»2.47»L,W,W,W,W,D»W,W,W,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga Nordost»Halberstadt-Lichtenberg»Halberstadt»Lichtenberg»null»null»1.99»3.55»3.38»-1.39»L,L,D,D,L,D»L,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga West»Verl-Lotte»Verl»Lotte»null»null»1.65»3.91»4.5»-2.85»W,W,W,W,W,W»W,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Norway»Eliteserien»Mjondalen-Stromsgodset»Mjondalen»Stromsgodset»null»null»2.29»3.5»2.97»-0.68»L,L,L,L,L,W»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Legnica-Puszcza»Legnica»Puszcza»null»null»1.6»3.7»5.4»-3.8»L,W,W,L,W,L»L,L,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Sweden»Division 2 - Norrland»IFK Ostersund-Ytterhogdals»IFK Ostersund»Ytterhogdals»null»null»4.33»4.32»1.53»2.8»W,L,L,L,D,L»W,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Wacker Innsbruck-Kapfenberg»Wacker Innsbruck»Kapfenberg»null»null»1.76»3.87»3.99»-2.23»L,W,D,W,L,W»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Ried-Vorwarts Steyr»Ried»Vorwarts Steyr»null»null»1.35»5.14»6.89»-5.54»W,W,W,D,W,L»D,L,D,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Floridsdorfer AC-Amstetten»Floridsdorfer AC»Amstetten»null»null»2.46»3.46»2.61»-0.15»L,L,L,D,W,D»L,W,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Horn-BW Linz»Horn»BW Linz»null»null»2.3»3.61»2.74»-0.44»L,L,W,W,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Ittihad FC-Al-Hazem»Al Ittihad FC»Al-Hazem»null»null»1.64»3.86»4.42»-2.78»W,L,L,W,L,W»W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Bani Yas-Al Wahda»Bani Yas»Al Wahda»null»null»2.75»3.62»2.19»0.56»D,D,W,D,L,W»W,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Drassburg-Mauerwerk»Drassburg»Mauerwerk»null»null»2.25»3.52»2.64»-0.39»W,L,L,W,L,L»L,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Pro League U21»Club Brugge U21-St. Liege U21»Club Brugge U21»St. Liege U21»null»null»4.43»4.67»1.52»2.91»L,D,W»L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Hamburg»TuS Osdorf-Sasel»TuS Osdorf»Sasel»null»null»5.43»5.15»1.38»4.05»W,L,L,L,L,L»W,D,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Hertha Wiesbach-Worms»Hertha Wiesbach»Worms»null»null»4.03»4.48»1.58»2.45»L,L,L,W,L,L»W,W,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»III Liga - Group I 2019/2020»Swit-Bron Radom»Swit»Bron Radom»null»null»1.81»3.74»3.47»-1.66»L,L,L,W,W,W»D,W,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»U Craiova-Poli Iasi»U Craiova»Poli Iasi»null»null»1.59»3.71»5.84»-4.25»W,W,W,W,W,D»D,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Yeni Malatyaspor-Denizlispor»Yeni Malatyaspor»Denizlispor»null»null»2.18»3.45»3.22»-1.04»L,D,L,L,W,L»L,W,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Fenerbahce-Antalyaspor»Fenerbahce»Antalyaspor»null»null»1.35»5.15»8.11»-6.76»D,W,L,D,W,W»W,L,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belarus»Vysshaya Liga»Gorodeja-FC Minsk»Gorodeja»FC Minsk»null»null»1.62»3.69»4.61»-2.99»W,D,L,L,W,D»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»1.Liga Classic Group 2»Grasshopper II-Baden»Grasshopper II»Baden»null»null»2.16»4.04»2.55»-0.39»»D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Egypt»Premier League»Smouha-Enppi»Smouha»Enppi»null»null»2.39»3.02»2.99»-0.6»D,L,L,W,L,D»L,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Hull U23-Newcastle Utd U23»Hull U23»Newcastle Utd U23»null»null»2.44»3.79»2.36»0.08»W,W,W,L,W,L»L,L,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Scunthorpe U23-West Brom U23»Scunthorpe U23»West Brom U23»null»null»4.53»4.6»1.5»3.03»W»W,L,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Valenciennes-Grenoble»Valenciennes»Grenoble»null»null»2.48»3.05»3.03»-0.55»L,D,D,W,W,L»W,D,W,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Le Mans-Chambly»Le Mans»Chambly»null»null»2.7»2.92»2.85»-0.15»L,L,L,W,W,L»L,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Caen-Chateauroux»Caen»Chateauroux»null»null»2.11»3.03»3.89»-1.78»L,L,L,L,D,L»W,D,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Nancy-Niort»Nancy»Niort»null»null»1.85»3.22»4.71»-2.86»D,W,D,D,W,L»D,D,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Paris FC-Troyes»Paris FC»Troyes»null»null»3.29»2.97»2.37»0.92»L,L,D,L,W,L»L,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Guingamp-Rodez»Guingamp»Rodez»null»null»1.97»3.2»4.13»-2.16»W,L,D,W,L,D»L,L,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Lorient-AC Ajaccio»Lorient»AC Ajaccio»null»null»1.76»3.31»5.18»-3.42»W,W,W,L,W,L»W,W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Sochaux-Clermont»Sochaux»Clermont»null»null»2.85»2.85»2.79»0.06»W,W,D,L,W,L»D,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Beziers-Bastia Borgo»Beziers»Bastia Borgo»null»null»2.07»3.07»3.61»-1.54»D,W,L,D,L,L»W,D,W,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Bourg Peronnas-Creteil»Bourg Peronnas»Creteil»null»null»2.16»3.07»3.38»-1.22»W,W,L,W,D,W»D,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»GFC Ajaccio-Cholet»GFC Ajaccio»Cholet»null»null»2.14»3.05»3.4»-1.26»L,D,W,W,D,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Lyon Duchere-Boulogne»Lyon Duchere»Boulogne»null»null»2.13»3»3.53»-1.4»W,D,L,D,W,W»L,D,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Pau-Villefranche»Pau»Villefranche»null»null»2.29»3.08»3.07»-0.78»W,L,W,D,W,W»D,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Quevilly Rouen-Le Puy»Quevilly Rouen»Le Puy»null»null»2.3»3.03»3.11»-0.81»L,L,D,L,D,L»L,L,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Red Star-Avranches»Red Star»Avranches»null»null»2.17»3.13»3.25»-1.08»L,D,W,L,L,L»D,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Toulon-Concarneau»Toulon»Concarneau»null»null»2.37»2.92»3.1»-0.73»D,L,L,D,L,D»W,L,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Cambuur-Excelsior»Cambuur»Excelsior»null»null»1.79»4.06»3.74»-1.95»W,W,W,W,W,L»W,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Dordrecht-Jong Utrecht»Dordrecht»Jong Utrecht»null»null»2.03»3.86»3.15»-1.12»L,W,D,D,D,L»D,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Breda-Nijmegen»Breda»Nijmegen»null»null»1.92»3.73»3.52»-1.6»W,W,W,D,L,W»D,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong PSV-FC Volendam»Jong PSV»FC Volendam»null»null»3.42»3.91»1.91»1.51»L,L,L,W,L,L»L,W,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»G.A. Eagles-Jong AZ»G.A. Eagles»Jong AZ»null»null»1.55»4.27»5.15»-3.6»D,D,W,D,L,W»D,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Den Bosch-Oss»Den Bosch»Oss»null»null»1.93»3.74»3.49»-1.56»D,W,L,D,L,D»L,W,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Graafschap-Almere City»Graafschap»Almere City»null»null»1.64»4.18»4.45»-2.81»D,W,D,W,D,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong Ajax-Eindhoven FC»Jong Ajax»Eindhoven FC»null»null»1.46»4.85»5.58»-4.12»W,D,W,L,W,W»W,L,D,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Telstar-Roda»Telstar»Roda»null»null»1.73»3.93»4.19»-2.46»L,L,W,L,L,W»D,L,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Helmond-Maastricht»Helmond»Maastricht»null»null»2.79»3.52»2.33»0.46»D,L,L,W,L,D»L,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eredivisie»Groningen-Waalwijk»Groningen»Waalwijk»null»null»1.38»5.03»7.34»-5.96»L,L,W,L,L,D»L,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»CD Baztan-Mutilvera»CD Baztan»Mutilvera»null»null»4.11»3.38»1.72»2.39»L,W,W,W,L,W»W,W,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»Challenge League»Lausanne-Winterthur»Lausanne»Winterthur»null»null»1.5»4.37»5.24»-3.74»D,W,W,W,L,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Scotland»Championship»Alloa-Dundee Utd»Alloa»Dundee Utd»null»null»6.3»4.46»1.45»4.85»D,L,L,W,W,L»W,W,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera B Metropolitana»Flandria-Tristan Suarez»Flandria»Tristan Suarez»null»null»2.43»2.96»2.88»-0.45»L,L,W,L,D,L»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Hungary W-Sweden W»Hungary W»Sweden W»null»null»22.81»11.87»1.04»21.77»L,L,L,D,W,L»W,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»Subiza-Beti Onak»Subiza»Beti Onak»null»null»1.99»3.22»3.24»-1.25»L,L,D,D,W,W»D,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Jupiler League»Charleroi-Anderlecht»Charleroi»Anderlecht»null»null»2.48»3.42»2.77»-0.29»D,W,L,W,W,L»D,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Proximus League»Lommel SK-KSV Roeselare»Lommel SK»KSV Roeselare»null»null»1.82»3.48»4.19»-2.37»D,L,L,D,D,L»L,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Leeds U23-Birmingham U23»Leeds U23»Birmingham U23»null»null»2.05»3.68»2.95»-0.9»L,L,W,D,D,W»W,D,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Bundesliga»Hertha Berlin-Dusseldorf»Hertha Berlin»Dusseldorf»null»null»1.84»3.84»4.19»-2.35»W,W,L,L,L,W»L,L,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Slask Wroclaw-Jagiellonia»Slask Wroclaw»Jagiellonia»null»null»2.19»3.28»3.33»-1.14»L,L,D,D,D,W»L,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Ammanford-Goytre Utd»Ammanford»Goytre Utd»null»null»2.13»3.84»2.66»-0.53»W,L,D,L,L,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Cambrian & Clydach-Briton Ferry»Cambrian & Clydach»Briton Ferry»null»null»1.68»4.04»3.82»-2.14»L,L,W,W,W,W»L,L,D,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Taffs Well-Llanelli»Taffs Well»Llanelli»null»null»4.05»4.28»1.6»2.45»W,L,W,W,L,D»W,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»World»Olympic Games Women»Antigua and Barbuda W-Dominican Republic W»Antigua and Barbuda W»Dominican Republic W»null»null»12.31»7.17»1.15»11.16»»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Championship»Birmingham-Middlesbrough»Birmingham»Middlesbrough»null»null»2.43»3.11»3.22»-0.79»L,L,L,W,W,L»D,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 1»Amiens-Marseille»Amiens»Marseille»null»null»3.28»3.24»2.31»0.97»D,L,W,D,L,L»D,D,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Bohemians-Cork City»Bohemians»Cork City»null»null»1.77»3.49»4.57»-2.8»L,D,W,L,L,W»L,D,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»St. Patricks-Waterford»St. Patricks»Waterford»null»null»1.82»3.64»4.11»-2.29»D,D,W,L,W,W»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Dundalk-Derry City»Dundalk»Derry City»null»null»2.12»3.61»3.13»-1.01»W,W,W,W,W,W»W,D,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Cabinteely-Longford»Cabinteely»Longford»null»null»2.46»3.28»2.73»-0.27»W,W,D,L,W,D»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Championship»Portadown-Newry City»Portadown»Newry City»null»null»1.75»4»3.46»-1.71»W,W,W,L,L,W»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Crusaders-Linfield»Crusaders»Linfield»null»null»2.59»3.38»2.41»0.18»W,L,W,W,W,D»W,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Glentoran-Cliftonville»Glentoran»Cliftonville»null»null»2.59»3.41»2.4»0.19»L,W,L,W,W,W»L,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Larne-Glenavon»Larne»Glenavon»null»null»1.74»3.59»4.16»-2.42»D,D,W,L,D,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Stal Mielec-GKS Jastrzebie»Stal Mielec»GKS Jastrzebie»null»null»1.64»3.6»5.14»-3.5»L,W,W,L,L,W»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Caernarfon-TNS»Caernarfon»TNS»null»null»5.64»4.38»1.46»4.18»W,L,W,W,D,W»L,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Penybont-Aberystwyth»Penybont»Aberystwyth»null»null»2.27»3.57»2.71»-0.44»L,L,W,L,L,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Finn Harps-UC Dublin»Finn Harps»UC Dublin»null»null»1.68»3.88»4.59»-2.91»D,L,L,L,W,W»L,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Serie B»Perugia-Pisa»Perugia»Pisa»null»null»1.95»3.19»4.2»-2.25»L,W,D,D,W,W»D,L,D,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga»Betis-Eibar»Betis»Eibar»null»null»2.01»3.67»3.72»-1.71»L,W,D,W,L,L»W,D,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga2»Alcorcon-Albacete»Alcorcon»Albacete»null»null»2.15»3.09»3.66»-1.51»D,L,D,W,D,L»D,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Druids-Bala»Druids»Bala»null»null»2.6»3.42»2.43»0.17»L,D,L,L,D,W»W,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»Libertas-Cosmos»Libertas»Cosmos»null»null»2»3.63»3.03»-1.03»L,L,L,W,W,L»L,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»San Giovanni-Tre Penne»San Giovanni»Tre Penne»null»null»3.93»3.94»1.68»2.25»L,L,L,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Spain W-Azerbaijan W»Spain W»Azerbaijan W»null»null»1.01»19.97»43.18»-42.17»L,L,L,W,W,W»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Portugal»League Cup»Chaves-Santa Clara»Chaves»Santa Clara»null»null»2.4»3.13»3»-0.6»W,L,L,W,W,W»W,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Junior-La Equidad»Junior»La Equidad»1»0»1.54»3.71»6.39»-4.85»D,W,D,D,W,D»D,W,D,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»America MG-CRB»America MG»CRB»1»0»1.75»3.33»4.86»-3.11»L,W,W,W,D,D»D,D,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Deportes Tolima-Dep. Cali»Deportes Tolima»Dep. Cali»5»2»1.98»3.19»3.89»-1.91»L,L,W,D,D,W»W,W,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»San Carlos-Alianza FC»San Carlos»Alianza FC»1»0»2.17»3.15»3.18»-1.01»L,W,D»W,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Philippines»PFL»Stallion-Philippine Air Force»Stallion»Philippine Air Force»null»null»1.02»21»27»-25.98»D,W,L,D,W,W»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera Nacional»Instituto-Quilmes»Instituto»Quilmes»1»1»2.22»2.78»3.65»-1.43»D,W,W,W,D,L»D,D,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ecuador»Copa Ecuador»LDU Quito-Emelec»LDU Quito»Emelec»null»null»1.76»3.26»4.66»-2.9»W,W,W,D,D,W»W,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»Vitoria-Sport Recife»Vitoria»Sport Recife»2»2»3.31»2.96»2.3»1.01»L,D,L,L,W,D»W,W,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Santa Fe-Bucaramanga»Santa Fe»Bucaramanga»2»0»1.53»3.67»6.79»-5.26»W,W,W,W,L,L»L,D,W,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»Comunicaciones-Olimpia»Comunicaciones»Olimpia»0»0»2.21»3.1»3.25»-1.04»L,D,W,D,W»W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persewar Waropen-Persis Solo»Persewar Waropen»Persis Solo»1»0»1.62»3.46»5»-3.38»W,W,D,L,W,L»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Sochi U19-Krylya Sovetov Samara U19»Sochi U19»Krylya Sovetov Samara U19»null»null»2.98»3.56»2.1»0.88»W,L,D,L,L,L»L,L,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 1»Bhayangkara Utd-PSS Sleman»Bhayangkara Utd»PSS Sleman»null»null»1.77»3.5»4.33»-2.56»D,D,W,D,L,L»D,L,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»PSIM Yogyakarta-Sulut Utd»PSIM Yogyakarta»Sulut Utd»null»null»1.54»3.71»5.58»-4.04»L,W,L,L,W,W»W,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persik Kediri-Madura FC»Persik Kediri»Madura FC»null»null»1.32»4.46»8.13»-6.81»L,W,W,L,D,W»L,L,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Asi Gilboa-H. Migdal HaEmek»H. Asi Gilboa»H. Migdal HaEmek»null»null»3.82»3.83»1.72»2.1»L,L,L»W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»France U19 W-Romania U19 W»France U19 W»Romania U19 W»null»null»1.02»19»50.5»-49.48»W,W,W,D,W,W»D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Switzerland U19 W-Israel U19 W»Switzerland U19 W»Israel U19 W»null»null»1.05»12.2»20.35»-19.3»W,D,W,L,W,W»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Kazakhstan»First Division 2019»Zhetysu 2-Kairat Academy»Zhetysu 2»Kairat Academy»null»null»1.91»3.4»3.48»-1.57»D,D,D,W,D»D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Rubin Kazan U19-Tambov U19»Rubin Kazan U19»Tambov U19»null»null»2.15»3.52»2.89»-0.74»W,D,W,W,D,D»W,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Bikat Hayarden-Holon Yermiyahu»H. Bikat Hayarden»Holon Yermiyahu»null»null»2.54»3.25»2.45»0.09»W,L,W»L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Japan»J1 League»G Osaka-Sapporo»G Osaka»Sapporo»null»null»2.41»3.63»2.66»-0.25»W,L,W,L,D,D»D,L,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»FK Orenburg U19-Dynamo Moscow U19»FK Orenburg U19»Dynamo Moscow U19»null»null»8.05»6.04»1.24»6.81»L,L,L,D,L,W»W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Lviv U21-Zorya U21»Lviv U21»Zorya U21»null»null»1.83»3.85»3.29»-1.46»W,L,W,D,L,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Kaukab-Shapira»Hapoel Kaukab»Shapira»null»null»2.39»3.31»2.58»-0.19»W,W,L»W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»M. Tzur Shalom-Maccabi Tamra»M. Tzur Shalom»Maccabi Tamra»null»null»2.53»3.12»2.55»-0.02»L,W,L»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Hak. Ramat Gan-Hapoel Kfar Shalem»Hak. Ramat Gan»Hapoel Kfar Shalem»null»null»2.11»3.33»3.05»-0.94»W,W,D,L,W,W»W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Armenia»Premier League»FC Yerevan-Ararat Yerevan»FC Yerevan»Ararat Yerevan»null»null»5.9»4.5»1.37»4.53»L,L,L,L,L,L»L,W,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Herzliya-M. Ironi Kiryat»H. Herzliya»M. Ironi Kiryat»null»null»1.9»3.34»3.52»-1.62»L,L,D,L»L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Yavne-Agudat Sport Ashdod»Maccabi Yavne»Agudat Sport Ashdod»null»null»2.53»3.2»2.44»0.09»L,W,L,L»W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Ufa U19-Akhmat Grozny U19»Ufa U19»Akhmat Grozny U19»null»null»4.5»4.45»1.52»2.98»L,L,D,L,L»L,W,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Vorskla Poltava U21-Mariupol U21»Vorskla Poltava U21»Mariupol U21»null»null»1.1»8.17»13.07»-11.97»L,W,W,W,W,D»W,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Bnei Ar'ara 'Ara-Ironi Baka»Hapoel Bnei Ar'ara 'Ara»Ironi Baka»null»null»3.3»3.52»1.92»1.38»L,W»D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Marmorek-M. Herzliya»H. Marmorek»M. Herzliya»null»null»1.82»3.23»3.89»-2.07»W,W,W,L,L,L»W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Jaffa-Hapoel Azor»Maccabi Jaffa»Hapoel Azor»null»null»1.83»3.25»3.83»-2»L,D»L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Kiryat Gat-Nordia Jerusalem»Kiryat Gat»Nordia Jerusalem»null»null»5.64»3.7»1.49»4.15»L,L,L»W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»U19 League»Opava U19-Pribram U19»Opava U19»Pribram U19»null»null»2.12»4.14»2.53»-0.41»L,W,L,W,L,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Charlton U23-Swansea U23»Charlton U23»Swansea U23»null»null»3.21»4.05»1.86»1.35»W,L,L,W,D,W»W,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Hong Kong»Premier League»Southern District-Kitchee»Southern District»Kitchee»null»null»3.57»3.8»1.79»1.78»D,W,L,L,W,W»D,W,W,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Ironi Tiberias-Hapoel Iksal Imad»Ironi Tiberias»Hapoel Iksal Imad»null»null»3.13»3.3»2.02»1.11»L,D,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»MS Tira-Hapoel Bnei Zalfa»MS Tira»Hapoel Bnei Zalfa»null»null»2.25»3.25»2.76»-0.51»L,D,D»W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Shimshon Kafr Qasim-Ironi Or Yehuda»Shimshon Kafr Qasim»Ironi Or Yehuda»null»null»2.36»3.23»2.7»-0.34»W,L,L»L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Esteghlal F.C.-Gol Gohar»Esteghlal F.C.»Gol Gohar»null»null»1.53»3.51»6.33»-4.8»W,L,D,L,W,D»L,L,L,D,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Paykan-Naft M.I.S»Paykan»Naft M.I.S»null»null»1.86»3.15»4.19»-2.33»W,W,L,L,L,W»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Primavera 1 2019/2020»Sampdoria U19-Lazio U19»Sampdoria U19»Lazio U19»null»null»2»3.49»3.04»-1.04»L,L,W,L,W,D»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Burundi»Primus League»Inter Star-Dynamik»Inter Star»Dynamik»null»null»3.98»3.07»1.83»2.15»D,W,L,D»W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Turkey W-Estonia W»Turkey W»Estonia W»null»null»1.13»7.42»16.16»-15.03»L,L,W,L,L,L»L,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Hapoel Katamon-Hapoel Afula»Hapoel Katamon»Hapoel Afula»null»null»1.66»3.58»4.6»-2.94»W,W,L,D,W,L»L,L,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Maccabi Petah Tikva-Hapoel Bnei Lod»Maccabi Petah Tikva»Hapoel Bnei Lod»null»null»1.46»4.11»6.06»-4.6»W,W,D,D,W,L»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»MS Kafr Qasim-Hapoel Petah Tikva»MS Kafr Qasim»Hapoel Petah Tikva»null»null»2.8»3.19»2.34»0.46»D,L,L,D,D,L»L,L,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»H. Akko-Beitar Tel Aviv»H. Akko»Beitar Tel Aviv»null»null»2.29»3.31»2.8»-0.51»L,W,L,W,D,D»L,W,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Nof Hagalil-Hap. Ramat Gan»Nof Hagalil»Hap. Ramat Gan»null»null»2.51»3.22»2.56»-0.05»W,L,L,L»W,D,L,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North Macedonia»1. MFL»Rabotnicki-Renova»Rabotnicki»Renova»null»null»1.82»3.39»3.89»-2.07»D,W,L,W,W,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»PFL - South»Krasnodar 3-Inter Cherkessk»Krasnodar 3»Inter Cherkessk»null»null»2.12»3.4»2.92»-0.8»L,L,L,D,L,L»L,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Rwanda»National Football league»AS Kigali-APR»AS Kigali»APR»null»null»2.93»3.04»2.27»0.66»L,D,D,W,D,L»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Radnicki 1923-Buducnost Dobanovci»Radnicki 1923»Buducnost Dobanovci»null»null»1.62»3.3»5.2»-3.58»L,L,L,W,D,W»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Din. Vranje-Novi Pazar»Din. Vranje»Novi Pazar»null»null»1.81»3.25»3.98»-2.17»L,W,D,D,D,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Uganda»Premier League»Express-Police»Express»Police»null»null»2.1»2.79»3.57»-1.47»L,L,W,L,D»W,D,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Oman Club-Al Nasr»Oman Club»Al Nasr»null»null»2.64»3.3»2.34»0.3»L,L,L,L,W,D»L,D,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Bahla-Dhofar»Bahla»Dhofar»null»null»3.76»3.28»1.84»1.92»D,D,D,L,W»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Al Nahda-Al Rustaq»Al Nahda»Al Rustaq»null»null»2.31»3.17»2.76»-0.45»W,W,D,L,W,W»D,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Slovakia U19 W-North Macedonia U19 W»Slovakia U19 W»North Macedonia U19 W»null»null»1»19.67»54»-53»D,L,L,L,W,W»L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Nassaji Mazandaran-Machine Sazi»Nassaji Mazandaran»Machine Sazi»null»null»1.99»3.05»3.85»-1.86»L,D,W,W,D,W»L,L,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sepahan-Zob Ahan»Sepahan»Zob Ahan»null»null»1.71»3.23»5.18»-3.47»W,D,D,W,W,L»W,D,D,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sanat Naft-Saipa»Sanat Naft»Saipa»null»null»2.49»2.92»2.87»-0.38»W,W,D,L,D,W»W,L,L,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahin Bushehr-Foolad»Shahin Bushehr»Foolad»null»null»3.45»3.05»2.1»1.35»W,L,L,L,W,W»L,W,D,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Austria U19 W-Latvia U19 W»Austria U19 W»Latvia U19 W»null»null»1.01»26»32»-30.99»W,D,W,L,W,W»L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Slavia Sofia-Tsarsko Selo»Slavia Sofia»Tsarsko Selo»null»null»1.46»4.01»6.16»-4.7»W,L,L,D,W,D»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga North»Hannover II-Hamburger SV II»Hannover II»Hamburger SV II»null»null»2.52»3.49»2.53»-0.01»D,D,L,L,W,L»L,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Al Fujairah-Khorfakkan»Al Fujairah»Khorfakkan»null»null»2.44»3.58»2.45»-0.01»L,W,W,D,L,W»D,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Ajman-Al Wasl»Ajman»Al Wasl»null»null»2.41»3.62»2.46»-0.05»D,L,D,D,W,W»D,L,W,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Shahaniya-Umm-Salal»Al Shahaniya»Umm-Salal»null»null»3.1»3.72»2.01»1.09»L,L,L,L,W,W»L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahr Khodrou-Persepolis»Shahr Khodrou»Persepolis»null»null»2.56»2.83»2.87»-0.31»W,D,L,W,W»W,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bahrain»Premier League»Busaiteen-Al Riffa»Busaiteen»Al Riffa»null»null»3.35»3.32»1.97»1.38»L,D,D,W,W,L»L,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»Division 2»Alki Oroklini-Aris»Alki Oroklini»Aris»null»null»2.1»3.44»2.85»-0.75»L,L,W,W,W,L»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Denmark W-Bosnia & Herzegovina W»Denmark W»Bosnia & Herzegovina W»null»null»1.02»15.72»30.86»-29.84»W,W,L,W,W,W»W,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Tractor-Pars Janoobi Jam»Tractor»Pars Janoobi Jam»null»null»1.51»3.71»6.22»-4.71»W,W,W,W,D,D»L,D,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»FC Botosani-Sepsi Sf. Gheorghe»FC Botosani»Sepsi Sf. Gheorghe»null»null»1.97»3.22»3.96»-1.99»W,W,L,D,D,L»D,W,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Al Qadisiya-Al Jabalain»Al Qadisiya»Al Jabalain»null»null»1.49»3.64»6.01»-4.52»W,W,W,W,D,W»W,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Slovakia»2. liga»Podbrezova-Samorin»Podbrezova»Samorin»null»null»1.51»4.04»4.91»-3.4»L,W,W,W,L,W»W,L,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Fateh-Al-Raed»Al Fateh»Al-Raed»null»null»2.38»3.29»2.69»-0.31»L,L,L,L,L,D»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Malta W-Italy W»Malta W»Italy W»null»null»35.25»21.54»1.01»34.24»L,L,L,W»W,W,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Lithuania W-Switzerland W»Lithuania W»Switzerland W»null»null»32.17»17.42»1.02»31.15»L,L,D,W,L»W,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Finland»Ykkonen»MyPa-TPV»MyPa»TPV»null»null»2.3»3.6»2.74»-0.44»D,L,W,W,D,L»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Lithuania»I Lyga»Banga-Nevezis Kedainiai»Banga»Nevezis Kedainiai»null»null»1.76»4»3.4»-1.64»L,D,W,L,W,W»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Najran-Al Ansar»Najran»Al Ansar»null»null»2»3.26»3.3»-1.3»W,L,D,D,D,D»L,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Mirbat-Seeb»Mirbat»Seeb»null»null»4»3.55»1.73»2.27»L,D,L,L,L,L»W,L,D,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Belarus W-Norway W»Belarus W»Norway W»null»null»30.49»15.46»1.02»29.47»W,W,W,L,L,W»W,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Croatia»1. HNL»Istra 1961-Zapresic»Istra 1961»Zapresic»null»null»2.03»3.29»3.57»-1.54»D,W,L,L,D,D»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»First Division»AEK Larnaca-Achnas»AEK Larnaca»Achnas»null»null»1.41»4.24»6.4»-4.99»D,D,W,W,W,D»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»1. Liga»Slovacko-Liberec»Slovacko»Liberec»null»null»2.21»3.21»3.27»-1.06»D,W,D,L,D,W»W,W,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»Division 2»Jihlava-Sokolov»Jihlava»Sokolov»null»null»1.32»4.64»8»-6.68»D,L,W,W,W,L»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»MSFL»Kromeriz-Dolni Benesov»Kromeriz»Dolni Benesov»null»null»1.18»6.92»8.78»-7.6»W,L,W,D,W,W»D,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Albania W-Portugal W»Albania W»Portugal W»null»null»30.31»16.66»1.02»29.29»L,L,L,L,L,L»L,W,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Latvia W-Slovakia W»Latvia W»Slovakia W»null»null»14.37»7.45»1.13»13.24»L,D,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Dunkerque-Laval»Dunkerque»Laval»null»null»2»3.16»3.69»-1.69»D,W,L,L,W,W»L,W,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Plock-Arka Gdynia»Plock»Arka Gdynia»null»null»2.42»3.31»2.89»-0.47»W,W,W,W,L,W»D,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Backa-Graficar Beograd»Backa»Graficar Beograd»null»null»2.26»3.25»2.75»-0.49»W,L,L,L,L,W»L,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Super Liga»Vojvodina-Sp. Subotica»Vojvodina»Sp. Subotica»null»null»1.41»4.24»6.23»-4.82»W,W,L,W,L,W»L,W,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»1. Lig»Altay-Bursaspor»Altay»Bursaspor»null»null»2.05»3.47»3.28»-1.23»D,D,W,W,D,L»W,W,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»FC Juniors-A. Klagenfurt»FC Juniors»A. Klagenfurt»null»null»3.62»3.92»1.84»1.78»W,L,L,L,W,W»D,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Traiskirchen-Wiener Sportklub»Traiskirchen»Wiener Sportklub»null»null»2.9»3.48»2.14»0.76»L,L,L,W,L,W»W,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Darmstadt-Karlsruher»Darmstadt»Karlsruher»null»null»2.49»3.29»2.82»-0.33»D,L,L,D,L,W»D,D,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Stuttgart-Wehen»Stuttgart»Wehen»null»null»1.32»5.46»8.2»-6.88»W,W,W,W,D,W»W,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Khor-Al Arabi»Al Khor»Al Arabi»null»null»4.14»4.16»1.63»2.51»L,L,L,W,D,D»W,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Burkina Faso-Ghana»Burkina Faso»Ghana»null»null»5.45»3.64»1.56»3.89»W,W,W,L,D,W»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Mauritania-Gambia»Mauritania»Gambia»null»null»2.3»3»3.09»-0.79»L,D,D,L,L,W»L,D,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Gleisdorf-Kalsdorf»Gleisdorf»Kalsdorf»null»null»1.72»3.86»3.9»-2.18»W,W,W,W,L,D»D,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Allerheiligen-St. Anna»Allerheiligen»St. Anna»null»null»2.2»3.48»2.75»-0.55»D,W,D,W,W,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Bad Gleichenberg-Ried (Am)»Bad Gleichenberg»Ried (Am)»null»null»1.47»4.23»5.18»-3.71»L,W,L,W,W,L»L,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Wels-WSC Wels»Wels»WSC Wels»null»null»4.88»3.96»1.54»3.34»L,L,D,L,D,L»W,L,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Vocklamarkt-SC Weiz»Vocklamarkt»SC Weiz»null»null»2.09»3.59»2.86»-0.77»W,W,W,L,D,L»W,L,W,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»SK Rapid Vienna (Am)-Ebreichsdorf»SK Rapid Vienna (Am)»Ebreichsdorf»null»null»2.69»3.63»2.19»0.5»W,D,W,W,W,W»W,W,W,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Neusiedl-Wiener Linien»Neusiedl»Wiener Linien»null»null»1.66»3.79»4.16»-2.5»W,L,W,W,W,L»W,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Seekirchen-Grodig»Seekirchen»Grodig»null»null»1.9»3.74»3.4»-1.5»W,D,D,W,L,L»L,W,D,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»SAK 1914-Wals Grunau»SAK 1914»Wals Grunau»null»null»1.23»6.25»8.66»-7.43»W,W,W,W,W,W»L,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Johann-Kuchl»Johann»Kuchl»null»null»1.73»4.24»3.78»-2.05»L,L,L,L,W,W»W,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Cherno More-Beroe»Cherno More»Beroe»null»null»1.83»3.36»3.98»-2.15»D,W,W,D,D,L»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Denmark»Superliga»Nordsjaelland-Lyngby»Nordsjaelland»Lyngby»null»null»1.43»4.96»6.51»-5.08»L,W,W,L,D,L»W,W,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Slovenia W-Netherlands W»Slovenia W»Netherlands W»null»null»25.64»13.37»1.03»24.61»W,L,L,L,W,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»3. Liga»Uerdingen-Magdeburg»Uerdingen»Magdeburg»null»null»3.32»3.53»2.04»1.28»W,L,W,L,D,L»W,D,D,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Bayern Nord»Eltersdorf-Sand»Eltersdorf»Sand»null»null»1.34»5.03»6.21»-4.87»W,L,W,W,W,L»L,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga NOFV-Nord»TB Berlin-Ludwigsfelder»TB Berlin»Ludwigsfelder»null»null»1.3»5.38»6.49»-5.19»D,W,W,W,W,W»L,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Gonsenheim-Schott Mainz»Gonsenheim»Schott Mainz»null»null»4.06»4.42»1.59»2.47»L,W,W,W,W,D»W,W,W,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga Nordost»Halberstadt-Lichtenberg»Halberstadt»Lichtenberg»null»null»1.99»3.55»3.38»-1.39»L,L,D,D,L,D»L,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga West»Verl-Lotte»Verl»Lotte»null»null»1.65»3.91»4.5»-2.85»W,W,W,W,W,W»W,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Norway»Eliteserien»Mjondalen-Stromsgodset»Mjondalen»Stromsgodset»null»null»2.29»3.5»2.97»-0.68»L,L,L,L,L,W»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Legnica-Puszcza»Legnica»Puszcza»null»null»1.6»3.7»5.4»-3.8»L,W,W,L,W,L»L,L,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Sweden»Division 2 - Norrland»IFK Ostersund-Ytterhogdals»IFK Ostersund»Ytterhogdals»null»null»4.33»4.32»1.53»2.8»W,L,L,L,D,L»W,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Wacker Innsbruck-Kapfenberg»Wacker Innsbruck»Kapfenberg»null»null»1.76»3.87»3.99»-2.23»L,W,D,W,L,W»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Ried-Vorwarts Steyr»Ried»Vorwarts Steyr»null»null»1.35»5.14»6.89»-5.54»W,W,W,D,W,L»D,L,D,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Floridsdorfer AC-Amstetten»Floridsdorfer AC»Amstetten»null»null»2.46»3.46»2.61»-0.15»L,L,L,D,W,D»L,W,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Horn-BW Linz»Horn»BW Linz»null»null»2.3»3.61»2.74»-0.44»L,L,W,W,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Ittihad FC-Al-Hazem»Al Ittihad FC»Al-Hazem»null»null»1.64»3.86»4.42»-2.78»W,L,L,W,L,W»W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Bani Yas-Al Wahda»Bani Yas»Al Wahda»null»null»2.75»3.62»2.19»0.56»D,D,W,D,L,W»W,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Drassburg-Mauerwerk»Drassburg»Mauerwerk»null»null»2.25»3.52»2.64»-0.39»W,L,L,W,L,L»L,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Pro League U21»Club Brugge U21-St. Liege U21»Club Brugge U21»St. Liege U21»null»null»4.43»4.67»1.52»2.91»L,D,W»L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Hamburg»TuS Osdorf-Sasel»TuS Osdorf»Sasel»null»null»5.43»5.15»1.38»4.05»W,L,L,L,L,L»W,D,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Hertha Wiesbach-Worms»Hertha Wiesbach»Worms»null»null»4.03»4.48»1.58»2.45»L,L,L,W,L,L»W,W,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»III Liga - Group I 2019/2020»Swit-Bron Radom»Swit»Bron Radom»null»null»1.81»3.74»3.47»-1.66»L,L,L,W,W,W»D,W,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»U Craiova-Poli Iasi»U Craiova»Poli Iasi»null»null»1.59»3.71»5.84»-4.25»W,W,W,W,W,D»D,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Yeni Malatyaspor-Denizlispor»Yeni Malatyaspor»Denizlispor»null»null»2.18»3.45»3.22»-1.04»L,D,L,L,W,L»L,W,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Fenerbahce-Antalyaspor»Fenerbahce»Antalyaspor»null»null»1.35»5.15»8.11»-6.76»D,W,L,D,W,W»W,L,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belarus»Vysshaya Liga»Gorodeja-FC Minsk»Gorodeja»FC Minsk»null»null»1.62»3.69»4.61»-2.99»W,D,L,L,W,D»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»1.Liga Classic Group 2»Grasshopper II-Baden»Grasshopper II»Baden»null»null»2.16»4.04»2.55»-0.39»»D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Egypt»Premier League»Smouha-Enppi»Smouha»Enppi»null»null»2.39»3.02»2.99»-0.6»D,L,L,W,L,D»L,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Hull U23-Newcastle Utd U23»Hull U23»Newcastle Utd U23»null»null»2.44»3.79»2.36»0.08»W,W,W,L,W,L»L,L,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Scunthorpe U23-West Brom U23»Scunthorpe U23»West Brom U23»null»null»4.53»4.6»1.5»3.03»W»W,L,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Valenciennes-Grenoble»Valenciennes»Grenoble»null»null»2.48»3.05»3.03»-0.55»L,D,D,W,W,L»W,D,W,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Le Mans-Chambly»Le Mans»Chambly»null»null»2.7»2.92»2.85»-0.15»L,L,L,W,W,L»L,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Caen-Chateauroux»Caen»Chateauroux»null»null»2.11»3.03»3.89»-1.78»L,L,L,L,D,L»W,D,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Nancy-Niort»Nancy»Niort»null»null»1.85»3.22»4.71»-2.86»D,W,D,D,W,L»D,D,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Paris FC-Troyes»Paris FC»Troyes»null»null»3.29»2.97»2.37»0.92»L,L,D,L,W,L»L,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Guingamp-Rodez»Guingamp»Rodez»null»null»1.97»3.2»4.13»-2.16»W,L,D,W,L,D»L,L,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Lorient-AC Ajaccio»Lorient»AC Ajaccio»null»null»1.76»3.31»5.18»-3.42»W,W,W,L,W,L»W,W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Sochaux-Clermont»Sochaux»Clermont»null»null»2.85»2.85»2.79»0.06»W,W,D,L,W,L»D,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Beziers-Bastia Borgo»Beziers»Bastia Borgo»null»null»2.07»3.07»3.61»-1.54»D,W,L,D,L,L»W,D,W,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Bourg Peronnas-Creteil»Bourg Peronnas»Creteil»null»null»2.16»3.07»3.38»-1.22»W,W,L,W,D,W»D,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»GFC Ajaccio-Cholet»GFC Ajaccio»Cholet»null»null»2.14»3.05»3.4»-1.26»L,D,W,W,D,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Lyon Duchere-Boulogne»Lyon Duchere»Boulogne»null»null»2.13»3»3.53»-1.4»W,D,L,D,W,W»L,D,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Pau-Villefranche»Pau»Villefranche»null»null»2.29»3.08»3.07»-0.78»W,L,W,D,W,W»D,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Quevilly Rouen-Le Puy»Quevilly Rouen»Le Puy»null»null»2.3»3.03»3.11»-0.81»L,L,D,L,D,L»L,L,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Red Star-Avranches»Red Star»Avranches»null»null»2.17»3.13»3.25»-1.08»L,D,W,L,L,L»D,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Toulon-Concarneau»Toulon»Concarneau»null»null»2.37»2.92»3.1»-0.73»D,L,L,D,L,D»W,L,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Cambuur-Excelsior»Cambuur»Excelsior»null»null»1.79»4.06»3.74»-1.95»W,W,W,W,W,L»W,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Dordrecht-Jong Utrecht»Dordrecht»Jong Utrecht»null»null»2.03»3.86»3.15»-1.12»L,W,D,D,D,L»D,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Breda-Nijmegen»Breda»Nijmegen»null»null»1.92»3.73»3.52»-1.6»W,W,W,D,L,W»D,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong PSV-FC Volendam»Jong PSV»FC Volendam»null»null»3.42»3.91»1.91»1.51»L,L,L,W,L,L»L,W,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»G.A. Eagles-Jong AZ»G.A. Eagles»Jong AZ»null»null»1.55»4.27»5.15»-3.6»D,D,W,D,L,W»D,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Den Bosch-Oss»Den Bosch»Oss»null»null»1.93»3.74»3.49»-1.56»D,W,L,D,L,D»L,W,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Graafschap-Almere City»Graafschap»Almere City»null»null»1.64»4.18»4.45»-2.81»D,W,D,W,D,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong Ajax-Eindhoven FC»Jong Ajax»Eindhoven FC»null»null»1.46»4.85»5.58»-4.12»W,D,W,L,W,W»W,L,D,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Telstar-Roda»Telstar»Roda»null»null»1.73»3.93»4.19»-2.46»L,L,W,L,L,W»D,L,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Helmond-Maastricht»Helmond»Maastricht»null»null»2.79»3.52»2.33»0.46»D,L,L,W,L,D»L,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eredivisie»Groningen-Waalwijk»Groningen»Waalwijk»null»null»1.38»5.03»7.34»-5.96»L,L,W,L,L,D»L,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»CD Baztan-Mutilvera»CD Baztan»Mutilvera»null»null»4.11»3.38»1.72»2.39»L,W,W,W,L,W»W,W,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»Challenge League»Lausanne-Winterthur»Lausanne»Winterthur»null»null»1.5»4.37»5.24»-3.74»D,W,W,W,L,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Scotland»Championship»Alloa-Dundee Utd»Alloa»Dundee Utd»null»null»6.3»4.46»1.45»4.85»D,L,L,W,W,L»W,W,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera B Metropolitana»Flandria-Tristan Suarez»Flandria»Tristan Suarez»null»null»2.43»2.96»2.88»-0.45»L,L,W,L,D,L»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Hungary W-Sweden W»Hungary W»Sweden W»null»null»22.81»11.87»1.04»21.77»L,L,L,D,W,L»W,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»Subiza-Beti Onak»Subiza»Beti Onak»null»null»1.99»3.22»3.24»-1.25»L,L,D,D,W,W»D,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Jupiler League»Charleroi-Anderlecht»Charleroi»Anderlecht»null»null»2.48»3.42»2.77»-0.29»D,W,L,W,W,L»D,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Proximus League»Lommel SK-KSV Roeselare»Lommel SK»KSV Roeselare»null»null»1.82»3.48»4.19»-2.37»D,L,L,D,D,L»L,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Leeds U23-Birmingham U23»Leeds U23»Birmingham U23»null»null»2.05»3.68»2.95»-0.9»L,L,W,D,D,W»W,D,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Bundesliga»Hertha Berlin-Dusseldorf»Hertha Berlin»Dusseldorf»null»null»1.84»3.84»4.19»-2.35»W,W,L,L,L,W»L,L,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Slask Wroclaw-Jagiellonia»Slask Wroclaw»Jagiellonia»null»null»2.19»3.28»3.33»-1.14»L,L,D,D,D,W»L,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Ammanford-Goytre Utd»Ammanford»Goytre Utd»null»null»2.13»3.84»2.66»-0.53»W,L,D,L,L,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Cambrian & Clydach-Briton Ferry»Cambrian & Clydach»Briton Ferry»null»null»1.68»4.04»3.82»-2.14»L,L,W,W,W,W»L,L,D,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Taffs Well-Llanelli»Taffs Well»Llanelli»null»null»4.05»4.28»1.6»2.45»W,L,W,W,L,D»W,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»World»Olympic Games Women»Antigua and Barbuda W-Dominican Republic W»Antigua and Barbuda W»Dominican Republic W»null»null»12.31»7.17»1.15»11.16»»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Championship»Birmingham-Middlesbrough»Birmingham»Middlesbrough»null»null»2.43»3.11»3.22»-0.79»L,L,L,W,W,L»D,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 1»Amiens-Marseille»Amiens»Marseille»null»null»3.28»3.24»2.31»0.97»D,L,W,D,L,L»D,D,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Bohemians-Cork City»Bohemians»Cork City»null»null»1.77»3.49»4.57»-2.8»L,D,W,L,L,W»L,D,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»St. Patricks-Waterford»St. Patricks»Waterford»null»null»1.82»3.64»4.11»-2.29»D,D,W,L,W,W»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Dundalk-Derry City»Dundalk»Derry City»null»null»2.12»3.61»3.13»-1.01»W,W,W,W,W,W»W,D,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Cabinteely-Longford»Cabinteely»Longford»null»null»2.46»3.28»2.73»-0.27»W,W,D,L,W,D»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Championship»Portadown-Newry City»Portadown»Newry City»null»null»1.75»4»3.46»-1.71»W,W,W,L,L,W»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Crusaders-Linfield»Crusaders»Linfield»null»null»2.59»3.38»2.41»0.18»W,L,W,W,W,D»W,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Glentoran-Cliftonville»Glentoran»Cliftonville»null»null»2.59»3.41»2.4»0.19»L,W,L,W,W,W»L,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Larne-Glenavon»Larne»Glenavon»null»null»1.74»3.59»4.16»-2.42»D,D,W,L,D,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Stal Mielec-GKS Jastrzebie»Stal Mielec»GKS Jastrzebie»null»null»1.64»3.6»5.14»-3.5»L,W,W,L,L,W»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Caernarfon-TNS»Caernarfon»TNS»null»null»5.64»4.38»1.46»4.18»W,L,W,W,D,W»L,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Penybont-Aberystwyth»Penybont»Aberystwyth»null»null»2.27»3.57»2.71»-0.44»L,L,W,L,L,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Finn Harps-UC Dublin»Finn Harps»UC Dublin»null»null»1.68»3.88»4.59»-2.91»D,L,L,L,W,W»L,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Serie B»Perugia-Pisa»Perugia»Pisa»null»null»1.95»3.19»4.2»-2.25»L,W,D,D,W,W»D,L,D,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga»Betis-Eibar»Betis»Eibar»null»null»2.01»3.67»3.72»-1.71»L,W,D,W,L,L»W,D,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga2»Alcorcon-Albacete»Alcorcon»Albacete»null»null»2.15»3.09»3.66»-1.51»D,L,D,W,D,L»D,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Druids-Bala»Druids»Bala»null»null»2.6»3.42»2.43»0.17»L,D,L,L,D,W»W,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»Libertas-Cosmos»Libertas»Cosmos»null»null»2»3.63»3.03»-1.03»L,L,L,W,W,L»L,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»San Giovanni-Tre Penne»San Giovanni»Tre Penne»null»null»3.93»3.94»1.68»2.25»L,L,L,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Spain W-Azerbaijan W»Spain W»Azerbaijan W»null»null»1.01»19.97»43.18»-42.17»L,L,L,W,W,W»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Portugal»League Cup»Chaves-Santa Clara»Chaves»Santa Clara»null»null»2.4»3.13»3»-0.6»W,L,L,W,W,W»W,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Junior-La Equidad»Junior»La Equidad»1»0»1.54»3.71»6.39»-4.85»D,W,D,D,W,D»D,W,D,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»America MG-CRB»America MG»CRB»1»0»1.75»3.33»4.86»-3.11»L,W,W,W,D,D»D,D,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Deportes Tolima-Dep. Cali»Deportes Tolima»Dep. Cali»5»2»1.98»3.19»3.89»-1.91»L,L,W,D,D,W»W,W,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»San Carlos-Alianza FC»San Carlos»Alianza FC»1»0»2.17»3.15»3.18»-1.01»L,W,D»W,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Philippines»PFL»Stallion-Philippine Air Force»Stallion»Philippine Air Force»null»null»1.02»21»27»-25.98»D,W,L,D,W,W»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera Nacional»Instituto-Quilmes»Instituto»Quilmes»1»1»2.22»2.78»3.65»-1.43»D,W,W,W,D,L»D,D,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ecuador»Copa Ecuador»LDU Quito-Emelec»LDU Quito»Emelec»null»null»1.76»3.26»4.66»-2.9»W,W,W,D,D,W»W,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Brazil»Serie B»Vitoria-Sport Recife»Vitoria»Sport Recife»2»2»3.31»2.96»2.3»1.01»L,D,L,L,W,D»W,W,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Colombia»Liga Aguila»Santa Fe-Bucaramanga»Santa Fe»Bucaramanga»2»0»1.53»3.67»6.79»-5.26»W,W,W,W,L,L»L,D,W,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North & Central America»CONCACAF League»Comunicaciones-Olimpia»Comunicaciones»Olimpia»0»0»2.21»3.1»3.25»-1.04»L,D,W,D,W»W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persewar Waropen-Persis Solo»Persewar Waropen»Persis Solo»1»0»1.62»3.46»5»-3.38»W,W,D,L,W,L»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Sochi U19-Krylya Sovetov Samara U19»Sochi U19»Krylya Sovetov Samara U19»null»null»2.98»3.56»2.1»0.88»W,L,D,L,L,L»L,L,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 1»Bhayangkara Utd-PSS Sleman»Bhayangkara Utd»PSS Sleman»null»null»1.77»3.5»4.33»-2.56»D,D,W,D,L,L»D,L,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»PSIM Yogyakarta-Sulut Utd»PSIM Yogyakarta»Sulut Utd»null»null»1.54»3.71»5.58»-4.04»L,W,L,L,W,W»W,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Indonesia»Liga 2»Persik Kediri-Madura FC»Persik Kediri»Madura FC»null»null»1.32»4.46»8.13»-6.81»L,W,W,L,D,W»L,L,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Asi Gilboa-H. Migdal HaEmek»H. Asi Gilboa»H. Migdal HaEmek»null»null»3.82»3.83»1.72»2.1»L,L,L»W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»France U19 W-Romania U19 W»France U19 W»Romania U19 W»null»null»1.02»19»50.5»-49.48»W,W,W,D,W,W»D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Switzerland U19 W-Israel U19 W»Switzerland U19 W»Israel U19 W»null»null»1.05»12.2»20.35»-19.3»W,D,W,L,W,W»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Kazakhstan»First Division 2019»Zhetysu 2-Kairat Academy»Zhetysu 2»Kairat Academy»null»null»1.91»3.4»3.48»-1.57»D,D,D,W,D»D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Rubin Kazan U19-Tambov U19»Rubin Kazan U19»Tambov U19»null»null»2.15»3.52»2.89»-0.74»W,D,W,W,D,D»W,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Bikat Hayarden-Holon Yermiyahu»H. Bikat Hayarden»Holon Yermiyahu»null»null»2.54»3.25»2.45»0.09»W,L,W»L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Japan»J1 League»G Osaka-Sapporo»G Osaka»Sapporo»null»null»2.41»3.63»2.66»-0.25»W,L,W,L,D,D»D,L,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»FK Orenburg U19-Dynamo Moscow U19»FK Orenburg U19»Dynamo Moscow U19»null»null»8.05»6.04»1.24»6.81»L,L,L,D,L,W»W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Lviv U21-Zorya U21»Lviv U21»Zorya U21»null»null»1.83»3.85»3.29»-1.46»W,L,W,D,L,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Kaukab-Shapira»Hapoel Kaukab»Shapira»null»null»2.39»3.31»2.58»-0.19»W,W,L»W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»M. Tzur Shalom-Maccabi Tamra»M. Tzur Shalom»Maccabi Tamra»null»null»2.53»3.12»2.55»-0.02»L,W,L»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Hak. Ramat Gan-Hapoel Kfar Shalem»Hak. Ramat Gan»Hapoel Kfar Shalem»null»null»2.11»3.33»3.05»-0.94»W,W,D,L,W,W»W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Armenia»Premier League»FC Yerevan-Ararat Yerevan»FC Yerevan»Ararat Yerevan»null»null»5.9»4.5»1.37»4.53»L,L,L,L,L,L»L,W,L,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»H. Herzliya-M. Ironi Kiryat»H. Herzliya»M. Ironi Kiryat»null»null»1.9»3.34»3.52»-1.62»L,L,D,L»L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Yavne-Agudat Sport Ashdod»Maccabi Yavne»Agudat Sport Ashdod»null»null»2.53»3.2»2.44»0.09»L,W,L,L»W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»Youth League»Ufa U19-Akhmat Grozny U19»Ufa U19»Akhmat Grozny U19»null»null»4.5»4.45»1.52»2.98»L,L,D,L,L»L,W,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ukraine»Youth League»Vorskla Poltava U21-Mariupol U21»Vorskla Poltava U21»Mariupol U21»null»null»1.1»8.17»13.07»-11.97»L,W,W,W,W,D»W,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Hapoel Bnei Ar'ara 'Ara-Ironi Baka»Hapoel Bnei Ar'ara 'Ara»Ironi Baka»null»null»3.3»3.52»1.92»1.38»L,W»D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»H. Marmorek-M. Herzliya»H. Marmorek»M. Herzliya»null»null»1.82»3.23»3.89»-2.07»W,W,W,L,L,L»W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Maccabi Jaffa-Hapoel Azor»Maccabi Jaffa»Hapoel Azor»null»null»1.83»3.25»3.83»-2»L,D»L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Kiryat Gat-Nordia Jerusalem»Kiryat Gat»Nordia Jerusalem»null»null»5.64»3.7»1.49»4.15»L,L,L»W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»U19 League»Opava U19-Pribram U19»Opava U19»Pribram U19»null»null»2.12»4.14»2.53»-0.41»L,W,L,W,L,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Charlton U23-Swansea U23»Charlton U23»Swansea U23»null»null»3.21»4.05»1.86»1.35»W,L,L,W,D,W»W,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Hong Kong»Premier League»Southern District-Kitchee»Southern District»Kitchee»null»null»3.57»3.8»1.79»1.78»D,W,L,L,W,W»D,W,W,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»Ironi Tiberias-Hapoel Iksal Imad»Ironi Tiberias»Hapoel Iksal Imad»null»null»3.13»3.3»2.02»1.11»L,D,L»W,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef North 2019/2020»MS Tira-Hapoel Bnei Zalfa»MS Tira»Hapoel Bnei Zalfa»null»null»2.25»3.25»2.76»-0.51»L,D,D»W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Liga Alef South 2019/2020»Shimshon Kafr Qasim-Ironi Or Yehuda»Shimshon Kafr Qasim»Ironi Or Yehuda»null»null»2.36»3.23»2.7»-0.34»W,L,L»L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Esteghlal F.C.-Gol Gohar»Esteghlal F.C.»Gol Gohar»null»null»1.53»3.51»6.33»-4.8»W,L,D,L,W,D»L,L,L,D,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Paykan-Naft M.I.S»Paykan»Naft M.I.S»null»null»1.86»3.15»4.19»-2.33»W,W,L,L,L,W»W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Primavera 1 2019/2020»Sampdoria U19-Lazio U19»Sampdoria U19»Lazio U19»null»null»2»3.49»3.04»-1.04»L,L,W,L,W,D»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Burundi»Primus League»Inter Star-Dynamik»Inter Star»Dynamik»null»null»3.98»3.07»1.83»2.15»D,W,L,D»W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Turkey W-Estonia W»Turkey W»Estonia W»null»null»1.13»7.42»16.16»-15.03»L,L,W,L,L,L»L,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Hapoel Katamon-Hapoel Afula»Hapoel Katamon»Hapoel Afula»null»null»1.66»3.58»4.6»-2.94»W,W,L,D,W,L»L,L,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Maccabi Petah Tikva-Hapoel Bnei Lod»Maccabi Petah Tikva»Hapoel Bnei Lod»null»null»1.46»4.11»6.06»-4.6»W,W,D,D,W,L»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»MS Kafr Qasim-Hapoel Petah Tikva»MS Kafr Qasim»Hapoel Petah Tikva»null»null»2.8»3.19»2.34»0.46»D,L,L,D,D,L»L,L,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»H. Akko-Beitar Tel Aviv»H. Akko»Beitar Tel Aviv»null»null»2.29»3.31»2.8»-0.51»L,W,L,W,D,D»L,W,D,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Israel»Leumit League»Nof Hagalil-Hap. Ramat Gan»Nof Hagalil»Hap. Ramat Gan»null»null»2.51»3.22»2.56»-0.05»W,L,L,L»W,D,L,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»North Macedonia»1. MFL»Rabotnicki-Renova»Rabotnicki»Renova»null»null»1.82»3.39»3.89»-2.07»D,W,L,W,W,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Russia»PFL - South»Krasnodar 3-Inter Cherkessk»Krasnodar 3»Inter Cherkessk»null»null»2.12»3.4»2.92»-0.8»L,L,L,D,L,L»L,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Rwanda»National Football league»AS Kigali-APR»AS Kigali»APR»null»null»2.93»3.04»2.27»0.66»L,D,D,W,D,L»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Radnicki 1923-Buducnost Dobanovci»Radnicki 1923»Buducnost Dobanovci»null»null»1.62»3.3»5.2»-3.58»L,L,L,W,D,W»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Din. Vranje-Novi Pazar»Din. Vranje»Novi Pazar»null»null»1.81»3.25»3.98»-2.17»L,W,D,D,D,L»W,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Uganda»Premier League»Express-Police»Express»Police»null»null»2.1»2.79»3.57»-1.47»L,L,W,L,D»W,D,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Oman Club-Al Nasr»Oman Club»Al Nasr»null»null»2.64»3.3»2.34»0.3»L,L,L,L,W,D»L,D,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Bahla-Dhofar»Bahla»Dhofar»null»null»3.76»3.28»1.84»1.92»D,D,D,L,W»D,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Al Nahda-Al Rustaq»Al Nahda»Al Rustaq»null»null»2.31»3.17»2.76»-0.45»W,W,D,L,W,W»D,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Slovakia U19 W-North Macedonia U19 W»Slovakia U19 W»North Macedonia U19 W»null»null»1»19.67»54»-53»D,L,L,L,W,W»L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Nassaji Mazandaran-Machine Sazi»Nassaji Mazandaran»Machine Sazi»null»null»1.99»3.05»3.85»-1.86»L,D,W,W,D,W»L,L,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sepahan-Zob Ahan»Sepahan»Zob Ahan»null»null»1.71»3.23»5.18»-3.47»W,D,D,W,W,L»W,D,D,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Sanat Naft-Saipa»Sanat Naft»Saipa»null»null»2.49»2.92»2.87»-0.38»W,W,D,L,D,W»W,L,L,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahin Bushehr-Foolad»Shahin Bushehr»Foolad»null»null»3.45»3.05»2.1»1.35»W,L,L,L,W,W»L,W,D,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro U19 Women»Austria U19 W-Latvia U19 W»Austria U19 W»Latvia U19 W»null»null»1.01»26»32»-30.99»W,D,W,L,W,W»L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Slavia Sofia-Tsarsko Selo»Slavia Sofia»Tsarsko Selo»null»null»1.46»4.01»6.16»-4.7»W,L,L,D,W,D»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga North»Hannover II-Hamburger SV II»Hannover II»Hamburger SV II»null»null»2.52»3.49»2.53»-0.01»D,D,L,L,W,L»L,W,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Al Fujairah-Khorfakkan»Al Fujairah»Khorfakkan»null»null»2.44»3.58»2.45»-0.01»L,W,W,D,L,W»D,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Ajman-Al Wasl»Ajman»Al Wasl»null»null»2.41»3.62»2.46»-0.05»D,L,D,D,W,W»D,L,W,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Shahaniya-Umm-Salal»Al Shahaniya»Umm-Salal»null»null»3.1»3.72»2.01»1.09»L,L,L,L,W,W»L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Shahr Khodrou-Persepolis»Shahr Khodrou»Persepolis»null»null»2.56»2.83»2.87»-0.31»W,D,L,W,W»W,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bahrain»Premier League»Busaiteen-Al Riffa»Busaiteen»Al Riffa»null»null»3.35»3.32»1.97»1.38»L,D,D,W,W,L»L,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»Division 2»Alki Oroklini-Aris»Alki Oroklini»Aris»null»null»2.1»3.44»2.85»-0.75»L,L,W,W,W,L»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Denmark W-Bosnia & Herzegovina W»Denmark W»Bosnia & Herzegovina W»null»null»1.02»15.72»30.86»-29.84»W,W,L,W,W,W»W,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Iran»Persian Gulf Pro League»Tractor-Pars Janoobi Jam»Tractor»Pars Janoobi Jam»null»null»1.51»3.71»6.22»-4.71»W,W,W,W,D,D»L,D,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»FC Botosani-Sepsi Sf. Gheorghe»FC Botosani»Sepsi Sf. Gheorghe»null»null»1.97»3.22»3.96»-1.99»W,W,L,D,D,L»D,W,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Al Qadisiya-Al Jabalain»Al Qadisiya»Al Jabalain»null»null»1.49»3.64»6.01»-4.52»W,W,W,W,D,W»W,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Slovakia»2. liga»Podbrezova-Samorin»Podbrezova»Samorin»null»null»1.51»4.04»4.91»-3.4»L,W,W,W,L,W»W,L,D,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Fateh-Al-Raed»Al Fateh»Al-Raed»null»null»2.38»3.29»2.69»-0.31»L,L,L,L,L,D»L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Malta W-Italy W»Malta W»Italy W»null»null»35.25»21.54»1.01»34.24»L,L,L,W»W,W,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Lithuania W-Switzerland W»Lithuania W»Switzerland W»null»null»32.17»17.42»1.02»31.15»L,L,D,W,L»W,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Finland»Ykkonen»MyPa-TPV»MyPa»TPV»null»null»2.3»3.6»2.74»-0.44»D,L,W,W,D,L»L,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Lithuania»I Lyga»Banga-Nevezis Kedainiai»Banga»Nevezis Kedainiai»null»null»1.76»4»3.4»-1.64»L,D,W,L,W,W»D,L,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Division 1»Najran-Al Ansar»Najran»Al Ansar»null»null»2»3.26»3.3»-1.3»W,L,D,D,D,D»L,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Oman»Professional League»Mirbat-Seeb»Mirbat»Seeb»null»null»4»3.55»1.73»2.27»L,D,L,L,L,L»W,L,D,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Belarus W-Norway W»Belarus W»Norway W»null»null»30.49»15.46»1.02»29.47»W,W,W,L,L,W»W,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Croatia»1. HNL»Istra 1961-Zapresic»Istra 1961»Zapresic»null»null»2.03»3.29»3.57»-1.54»D,W,L,L,D,D»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Cyprus»First Division»AEK Larnaca-Achnas»AEK Larnaca»Achnas»null»null»1.41»4.24»6.4»-4.99»D,D,W,W,W,D»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»1. Liga»Slovacko-Liberec»Slovacko»Liberec»null»null»2.21»3.21»3.27»-1.06»D,W,D,L,D,W»W,W,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»Division 2»Jihlava-Sokolov»Jihlava»Sokolov»null»null»1.32»4.64»8»-6.68»D,L,W,W,W,L»L,L,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Czech Republic»MSFL»Kromeriz-Dolni Benesov»Kromeriz»Dolni Benesov»null»null»1.18»6.92»8.78»-7.6»W,L,W,D,W,W»D,L,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Albania W-Portugal W»Albania W»Portugal W»null»null»30.31»16.66»1.02»29.29»L,L,L,L,L,L»L,W,L,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Latvia W-Slovakia W»Latvia W»Slovakia W»null»null»14.37»7.45»1.13»13.24»L,D,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Dunkerque-Laval»Dunkerque»Laval»null»null»2»3.16»3.69»-1.69»D,W,L,L,W,W»L,W,L,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Plock-Arka Gdynia»Plock»Arka Gdynia»null»null»2.42»3.31»2.89»-0.47»W,W,W,W,L,W»D,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Prva Liga»Backa-Graficar Beograd»Backa»Graficar Beograd»null»null»2.26»3.25»2.75»-0.49»W,L,L,L,L,W»L,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Serbia»Super Liga»Vojvodina-Sp. Subotica»Vojvodina»Sp. Subotica»null»null»1.41»4.24»6.23»-4.82»W,W,L,W,L,W»L,W,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»1. Lig»Altay-Bursaspor»Altay»Bursaspor»null»null»2.05»3.47»3.28»-1.23»D,D,W,W,D,L»W,W,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»FC Juniors-A. Klagenfurt»FC Juniors»A. Klagenfurt»null»null»3.62»3.92»1.84»1.78»W,L,L,L,W,W»D,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Traiskirchen-Wiener Sportklub»Traiskirchen»Wiener Sportklub»null»null»2.9»3.48»2.14»0.76»L,L,L,W,L,W»W,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Darmstadt-Karlsruher»Darmstadt»Karlsruher»null»null»2.49»3.29»2.82»-0.33»D,L,L,D,L,W»D,D,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»2. Bundesliga»Stuttgart-Wehen»Stuttgart»Wehen»null»null»1.32»5.46»8.2»-6.88»W,W,W,W,D,W»W,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Qatar»QSL»Al Khor-Al Arabi»Al Khor»Al Arabi»null»null»4.14»4.16»1.63»2.51»L,L,L,W,D,D»W,W,D,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Burkina Faso-Ghana»Burkina Faso»Ghana»null»null»5.45»3.64»1.56»3.89»W,W,W,L,D,W»W,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Africa»WAFU Cup of Nations»Mauritania-Gambia»Mauritania»Gambia»null»null»2.3»3»3.09»-0.79»L,D,D,L,L,W»L,D,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Gleisdorf-Kalsdorf»Gleisdorf»Kalsdorf»null»null»1.72»3.86»3.9»-2.18»W,W,W,W,L,D»D,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Allerheiligen-St. Anna»Allerheiligen»St. Anna»null»null»2.2»3.48»2.75»-0.55»D,W,D,W,W,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Bad Gleichenberg-Ried (Am)»Bad Gleichenberg»Ried (Am)»null»null»1.47»4.23»5.18»-3.71»L,W,L,W,W,L»L,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Wels-WSC Wels»Wels»WSC Wels»null»null»4.88»3.96»1.54»3.34»L,L,D,L,D,L»W,L,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga Central»Vocklamarkt-SC Weiz»Vocklamarkt»SC Weiz»null»null»2.09»3.59»2.86»-0.77»W,W,W,L,D,L»W,L,W,D,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»SK Rapid Vienna (Am)-Ebreichsdorf»SK Rapid Vienna (Am)»Ebreichsdorf»null»null»2.69»3.63»2.19»0.5»W,D,W,W,W,W»W,W,W,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Neusiedl-Wiener Linien»Neusiedl»Wiener Linien»null»null»1.66»3.79»4.16»-2.5»W,L,W,W,W,L»W,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Seekirchen-Grodig»Seekirchen»Grodig»null»null»1.9»3.74»3.4»-1.5»W,D,D,W,L,L»L,W,D,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»SAK 1914-Wals Grunau»SAK 1914»Wals Grunau»null»null»1.23»6.25»8.66»-7.43»W,W,W,W,W,W»L,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga West - Salzburg»Johann-Kuchl»Johann»Kuchl»null»null»1.73»4.24»3.78»-2.05»L,L,L,L,W,W»W,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Bulgaria»Parva Liga»Cherno More-Beroe»Cherno More»Beroe»null»null»1.83»3.36»3.98»-2.15»D,W,W,D,D,L»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Denmark»Superliga»Nordsjaelland-Lyngby»Nordsjaelland»Lyngby»null»null»1.43»4.96»6.51»-5.08»L,W,W,L,D,L»W,W,L,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Slovenia W-Netherlands W»Slovenia W»Netherlands W»null»null»25.64»13.37»1.03»24.61»W,L,L,L,W,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»3. Liga»Uerdingen-Magdeburg»Uerdingen»Magdeburg»null»null»3.32»3.53»2.04»1.28»W,L,W,L,D,L»W,D,D,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Bayern Nord»Eltersdorf-Sand»Eltersdorf»Sand»null»null»1.34»5.03»6.21»-4.87»W,L,W,W,W,L»L,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga NOFV-Nord»TB Berlin-Ludwigsfelder»TB Berlin»Ludwigsfelder»null»null»1.3»5.38»6.49»-5.19»D,W,W,W,W,W»L,D,D,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Gonsenheim-Schott Mainz»Gonsenheim»Schott Mainz»null»null»4.06»4.42»1.59»2.47»L,W,W,W,W,D»W,W,W,D,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga Nordost»Halberstadt-Lichtenberg»Halberstadt»Lichtenberg»null»null»1.99»3.55»3.38»-1.39»L,L,D,D,L,D»L,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Regionalliga West»Verl-Lotte»Verl»Lotte»null»null»1.65»3.91»4.5»-2.85»W,W,W,W,W,W»W,L,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Norway»Eliteserien»Mjondalen-Stromsgodset»Mjondalen»Stromsgodset»null»null»2.29»3.5»2.97»-0.68»L,L,L,L,L,W»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Legnica-Puszcza»Legnica»Puszcza»null»null»1.6»3.7»5.4»-3.8»L,W,W,L,W,L»L,L,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Sweden»Division 2 - Norrland»IFK Ostersund-Ytterhogdals»IFK Ostersund»Ytterhogdals»null»null»4.33»4.32»1.53»2.8»W,L,L,L,D,L»W,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Wacker Innsbruck-Kapfenberg»Wacker Innsbruck»Kapfenberg»null»null»1.76»3.87»3.99»-2.23»L,W,D,W,L,W»L,W,D,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Ried-Vorwarts Steyr»Ried»Vorwarts Steyr»null»null»1.35»5.14»6.89»-5.54»W,W,W,D,W,L»D,L,D,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Floridsdorfer AC-Amstetten»Floridsdorfer AC»Amstetten»null»null»2.46»3.46»2.61»-0.15»L,L,L,D,W,D»L,W,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»2. Liga»Horn-BW Linz»Horn»BW Linz»null»null»2.3»3.61»2.74»-0.44»L,L,W,W,W,L»L,L,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Saudi Arabia»Saudi Professional League»Al Ittihad FC-Al-Hazem»Al Ittihad FC»Al-Hazem»null»null»1.64»3.86»4.42»-2.78»W,L,L,W,L,W»W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»United Arab Emirates»UAE League»Bani Yas-Al Wahda»Bani Yas»Al Wahda»null»null»2.75»3.62»2.19»0.56»D,D,W,D,L,W»W,L,D,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Austria»Regionalliga East»Drassburg-Mauerwerk»Drassburg»Mauerwerk»null»null»2.25»3.52»2.64»-0.39»W,L,L,W,L,L»L,D,W,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Pro League U21»Club Brugge U21-St. Liege U21»Club Brugge U21»St. Liege U21»null»null»4.43»4.67»1.52»2.91»L,D,W»L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Hamburg»TuS Osdorf-Sasel»TuS Osdorf»Sasel»null»null»5.43»5.15»1.38»4.05»W,L,L,L,L,L»W,D,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Oberliga Rheinland-Pfalz/Saar»Hertha Wiesbach-Worms»Hertha Wiesbach»Worms»null»null»4.03»4.48»1.58»2.45»L,L,L,W,L,L»W,W,W,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»III Liga - Group I 2019/2020»Swit-Bron Radom»Swit»Bron Radom»null»null»1.81»3.74»3.47»-1.66»L,L,L,W,W,W»D,W,L,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Romania»Liga 1»U Craiova-Poli Iasi»U Craiova»Poli Iasi»null»null»1.59»3.71»5.84»-4.25»W,W,W,W,W,D»D,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Yeni Malatyaspor-Denizlispor»Yeni Malatyaspor»Denizlispor»null»null»2.18»3.45»3.22»-1.04»L,D,L,L,W,L»L,W,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Turkey»Super Lig»Fenerbahce-Antalyaspor»Fenerbahce»Antalyaspor»null»null»1.35»5.15»8.11»-6.76»D,W,L,D,W,W»W,L,D,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belarus»Vysshaya Liga»Gorodeja-FC Minsk»Gorodeja»FC Minsk»null»null»1.62»3.69»4.61»-2.99»W,D,L,L,W,D»L,W,L,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»1.Liga Classic Group 2»Grasshopper II-Baden»Grasshopper II»Baden»null»null»2.16»4.04»2.55»-0.39»»D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Egypt»Premier League»Smouha-Enppi»Smouha»Enppi»null»null»2.39»3.02»2.99»-0.6»D,L,L,W,L,D»L,D,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Hull U23-Newcastle Utd U23»Hull U23»Newcastle Utd U23»null»null»2.44»3.79»2.36»0.08»W,W,W,L,W,L»L,L,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Scunthorpe U23-West Brom U23»Scunthorpe U23»West Brom U23»null»null»4.53»4.6»1.5»3.03»W»W,L,L,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Valenciennes-Grenoble»Valenciennes»Grenoble»null»null»2.48»3.05»3.03»-0.55»L,D,D,W,W,L»W,D,W,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Le Mans-Chambly»Le Mans»Chambly»null»null»2.7»2.92»2.85»-0.15»L,L,L,W,W,L»L,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Caen-Chateauroux»Caen»Chateauroux»null»null»2.11»3.03»3.89»-1.78»L,L,L,L,D,L»W,D,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Nancy-Niort»Nancy»Niort»null»null»1.85»3.22»4.71»-2.86»D,W,D,D,W,L»D,D,L,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Paris FC-Troyes»Paris FC»Troyes»null»null»3.29»2.97»2.37»0.92»L,L,D,L,W,L»L,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Guingamp-Rodez»Guingamp»Rodez»null»null»1.97»3.2»4.13»-2.16»W,L,D,W,L,D»L,L,W,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Lorient-AC Ajaccio»Lorient»AC Ajaccio»null»null»1.76»3.31»5.18»-3.42»W,W,W,L,W,L»W,W,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 2»Sochaux-Clermont»Sochaux»Clermont»null»null»2.85»2.85»2.79»0.06»W,W,D,L,W,L»D,W,L,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Beziers-Bastia Borgo»Beziers»Bastia Borgo»null»null»2.07»3.07»3.61»-1.54»D,W,L,D,L,L»W,D,W,L,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Bourg Peronnas-Creteil»Bourg Peronnas»Creteil»null»null»2.16»3.07»3.38»-1.22»W,W,L,W,D,W»D,D,W,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»GFC Ajaccio-Cholet»GFC Ajaccio»Cholet»null»null»2.14»3.05»3.4»-1.26»L,D,W,W,D,L»W,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Lyon Duchere-Boulogne»Lyon Duchere»Boulogne»null»null»2.13»3»3.53»-1.4»W,D,L,D,W,W»L,D,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Pau-Villefranche»Pau»Villefranche»null»null»2.29»3.08»3.07»-0.78»W,L,W,D,W,W»D,L,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Quevilly Rouen-Le Puy»Quevilly Rouen»Le Puy»null»null»2.3»3.03»3.11»-0.81»L,L,D,L,D,L»L,L,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Red Star-Avranches»Red Star»Avranches»null»null»2.17»3.13»3.25»-1.08»L,D,W,L,L,L»D,W,W,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»National»Toulon-Concarneau»Toulon»Concarneau»null»null»2.37»2.92»3.1»-0.73»D,L,L,D,L,D»W,L,D,D,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Cambuur-Excelsior»Cambuur»Excelsior»null»null»1.79»4.06»3.74»-1.95»W,W,W,W,W,L»W,L,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Dordrecht-Jong Utrecht»Dordrecht»Jong Utrecht»null»null»2.03»3.86»3.15»-1.12»L,W,D,D,D,L»D,W,W,D,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Breda-Nijmegen»Breda»Nijmegen»null»null»1.92»3.73»3.52»-1.6»W,W,W,D,L,W»D,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong PSV-FC Volendam»Jong PSV»FC Volendam»null»null»3.42»3.91»1.91»1.51»L,L,L,W,L,L»L,W,D,L,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»G.A. Eagles-Jong AZ»G.A. Eagles»Jong AZ»null»null»1.55»4.27»5.15»-3.6»D,D,W,D,L,W»D,L,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Den Bosch-Oss»Den Bosch»Oss»null»null»1.93»3.74»3.49»-1.56»D,W,L,D,L,D»L,W,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Graafschap-Almere City»Graafschap»Almere City»null»null»1.64»4.18»4.45»-2.81»D,W,D,W,D,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Jong Ajax-Eindhoven FC»Jong Ajax»Eindhoven FC»null»null»1.46»4.85»5.58»-4.12»W,D,W,L,W,W»W,L,D,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Telstar-Roda»Telstar»Roda»null»null»1.73»3.93»4.19»-2.46»L,L,W,L,L,W»D,L,D,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eerste Divisie»Helmond-Maastricht»Helmond»Maastricht»null»null»2.79»3.52»2.33»0.46»D,L,L,W,L,D»L,L,L,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Netherlands»Eredivisie»Groningen-Waalwijk»Groningen»Waalwijk»null»null»1.38»5.03»7.34»-5.96»L,L,W,L,L,D»L,L,L,L,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»CD Baztan-Mutilvera»CD Baztan»Mutilvera»null»null»4.11»3.38»1.72»2.39»L,W,W,W,L,W»W,W,W,L,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Switzerland»Challenge League»Lausanne-Winterthur»Lausanne»Winterthur»null»null»1.5»4.37»5.24»-3.74»D,W,W,W,L,W»W,W,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Scotland»Championship»Alloa-Dundee Utd»Alloa»Dundee Utd»null»null»6.3»4.46»1.45»4.85»D,L,L,W,W,L»W,W,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Argentina»Primera B Metropolitana»Flandria-Tristan Suarez»Flandria»Tristan Suarez»null»null»2.43»2.96»2.88»-0.45»L,L,W,L,D,L»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Hungary W-Sweden W»Hungary W»Sweden W»null»null»22.81»11.87»1.04»21.77»L,L,L,D,W,L»W,L,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»Tercera Division - Group 15»Subiza-Beti Onak»Subiza»Beti Onak»null»null»1.99»3.22»3.24»-1.25»L,L,D,D,W,W»D,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Jupiler League»Charleroi-Anderlecht»Charleroi»Anderlecht»null»null»2.48»3.42»2.77»-0.29»D,W,L,W,W,L»D,W,L,W,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Belgium»Proximus League»Lommel SK-KSV Roeselare»Lommel SK»KSV Roeselare»null»null»1.82»3.48»4.19»-2.37»D,L,L,D,D,L»L,L,L,D,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Premier League Cup»Leeds U23-Birmingham U23»Leeds U23»Birmingham U23»null»null»2.05»3.68»2.95»-0.9»L,L,W,D,D,W»W,D,L,L,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Germany»Bundesliga»Hertha Berlin-Dusseldorf»Hertha Berlin»Dusseldorf»null»null»1.84»3.84»4.19»-2.35»W,W,L,L,L,W»L,L,D,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Ekstraklasa»Slask Wroclaw-Jagiellonia»Slask Wroclaw»Jagiellonia»null»null»2.19»3.28»3.33»-1.14»L,L,D,D,D,W»L,L,D,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Ammanford-Goytre Utd»Ammanford»Goytre Utd»null»null»2.13»3.84»2.66»-0.53»W,L,D,L,L,D»L,W,L,L,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Cambrian & Clydach-Briton Ferry»Cambrian & Clydach»Briton Ferry»null»null»1.68»4.04»3.82»-2.14»L,L,W,W,W,W»L,L,D,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»FAW Championship South & Mid»Taffs Well-Llanelli»Taffs Well»Llanelli»null»null»4.05»4.28»1.6»2.45»W,L,W,W,L,D»W,W,W,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»World»Olympic Games Women»Antigua and Barbuda W-Dominican Republic W»Antigua and Barbuda W»Dominican Republic W»null»null»12.31»7.17»1.15»11.16»»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»England»Championship»Birmingham-Middlesbrough»Birmingham»Middlesbrough»null»null»2.43»3.11»3.22»-0.79»L,L,L,W,W,L»D,L,L,W,D,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»France»Ligue 1»Amiens-Marseille»Amiens»Marseille»null»null»3.28»3.24»2.31»0.97»D,L,W,D,L,L»D,D,D,W,W,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Bohemians-Cork City»Bohemians»Cork City»null»null»1.77»3.49»4.57»-2.8»L,D,W,L,L,W»L,D,L,L,L,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»St. Patricks-Waterford»St. Patricks»Waterford»null»null»1.82»3.64»4.11»-2.29»D,D,W,L,W,W»L,W,L,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Dundalk-Derry City»Dundalk»Derry City»null»null»2.12»3.61»3.13»-1.01»W,W,W,W,W,W»W,D,L,D,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Cabinteely-Longford»Cabinteely»Longford»null»null»2.46»3.28»2.73»-0.27»W,W,D,L,W,D»W,L,W,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Championship»Portadown-Newry City»Portadown»Newry City»null»null»1.75»4»3.46»-1.71»W,W,W,L,L,W»L,L,L,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Crusaders-Linfield»Crusaders»Linfield»null»null»2.59»3.38»2.41»0.18»W,L,W,W,W,D»W,W,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Glentoran-Cliftonville»Glentoran»Cliftonville»null»null»2.59»3.41»2.4»0.19»L,W,L,W,W,W»L,W,W,L,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Northern Ireland»NIFL Premiership»Larne-Glenavon»Larne»Glenavon»null»null»1.74»3.59»4.16»-2.42»D,D,W,L,D,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Poland»Division 1»Stal Mielec-GKS Jastrzebie»Stal Mielec»GKS Jastrzebie»null»null»1.64»3.6»5.14»-3.5»L,W,W,L,L,W»L,W,W,W,D,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Caernarfon-TNS»Caernarfon»TNS»null»null»5.64»4.38»1.46»4.18»W,L,W,W,D,W»L,L,W,D,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Penybont-Aberystwyth»Penybont»Aberystwyth»null»null»2.27»3.57»2.71»-0.44»L,L,W,L,L,L»L,W,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Ireland»Premier Division»Finn Harps-UC Dublin»Finn Harps»UC Dublin»null»null»1.68»3.88»4.59»-2.91»D,L,L,L,W,W»L,D,L,L,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Italy»Serie B»Perugia-Pisa»Perugia»Pisa»null»null»1.95»3.19»4.2»-2.25»L,W,D,D,W,W»D,L,D,W,D,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga»Betis-Eibar»Betis»Eibar»null»null»2.01»3.67»3.72»-1.71»L,W,D,W,L,L»W,D,L,D,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Spain»LaLiga2»Alcorcon-Albacete»Alcorcon»Albacete»null»null»2.15»3.09»3.66»-1.51»D,L,D,W,D,L»D,L,W,W,W,L
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Wales»Premier League»Druids-Bala»Druids»Bala»null»null»2.6»3.42»2.43»0.17»L,D,L,L,D,W»W,L,L,W,L,D
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»Libertas-Cosmos»Libertas»Cosmos»null»null»2»3.63»3.03»-1.03»L,L,L,W,W,L»L,W,W,W,L,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»San Marino»Campionato Sammarinese»San Giovanni-Tre Penne»San Giovanni»Tre Penne»null»null»3.93»3.94»1.68»2.25»L,L,L,W»W,W,W,W,W,W
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Europe»Euro Women»Spain W-Azerbaijan W»Spain W»Azerbaijan W»null»null»1.01»19.97»43.18»-42.17»L,L,L,W,W,W»
+Fri Oct 04 2019 00:00:00 GMT+0300 (E. Africa Standard Time)»Portugal»League Cup»Chaves-Santa Clara»Chaves»Santa Clara»null»null»2.4»3.13»3»-0.6»W,L,L,W,W,W»W,L,L,D,D,W

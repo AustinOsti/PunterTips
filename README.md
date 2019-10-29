@@ -76,3 +76,27 @@ Use the procedure below to generate analysis for viability of Jackpot bets.
 2. Run the node script to generate statistical analysis of the day bets from archives table (npm run mbetlist).
 This will generate analysis data, which is then placed in the analysis folder (extracts - Analysis) for uploading into the MBetAnalysis spreadsheet.
 3. Open the MBetAnalysis.xlsm file in the analysis folder (c:/PunterTips/analysis) and upload the data above for further analysis.
+
+=======================================================================================
+
+# 4. Generate Analysis for the ACCA Bets
+Use the procedure below to generate analysis for bets to pick in the ACCABetAnalysis spreadsheet.
+
+## Procedure
+
+### Generate the Bets List
+1. Navigate to the url https://www.oddsportal.com/results/#soccer
+2. Select the day containing the games you with to analyse for bets possibility.
+3. Press Ctrl+S and save the web page to the extracts folder (extracts - HTML).
+
+### Update the Bets Table with the Bets List
+1. Open the update_bets.js file and ensure that the settings for date (ie date.setDate(date.getDate() + 0);) correspond to the date containing the games to retrieve from the bets list, relative to today (as shown by + 0 in this example).
+2. Open a command prompt window and activate the mongo database (mongod --dbpath d:/puntertips/data)
+3. Open another command prompt window, navigate to the PunterTips folder (cd /d/puntertips). 
+4. Run the script to update the betslist table with the days bets (npm run bets).
+
+### Perform Analysis of the Day Bets (Done in the MBetAnalysis Spreadsheet)
+1. Open the acca_analysis_daybets.js script and ensure that the date for the results you wish to analyse is set up correctly in the dateFilter constant (ie const dateFilter = "2019-06-15T21:00:00.000Z"; for analysis of results for 16/6/2019)
+2. Run the node script to generate statistical analysis of the day bets from archives table (npm run accabetlist).
+This will generate analysis data, which is then placed in the analysis folder (extracts - Analysis, eg: accabetlist_???) for uploading into the ACCABetAnalysis spreadsheet.
+3. Open the MBetAnalysis.xlsm file in the analysis folder (c:/PunterTips/analysis) and upload the data above for further analysis (Data|From Text).

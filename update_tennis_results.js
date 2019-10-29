@@ -2,10 +2,10 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 const mongoose = require('mongoose');
 const JSONStream = require('JSONStream');
-const Archives = require('./models/Archives');
+const TArchives = require('./models/TArchives');
 const config = require('./config/config.js');
 const extractsFolder = './extracts - HTML/';
-const extractsToUpload = './extracts - ToUpload/';
+const extractsToUpload = './extracts - Tennis/';
 
 mongoose.connect(config.MONGODB_URI, { poolSize: config.DB_POOL_SIZE });
 mongoose.Promise = global.Promise;
@@ -22,6 +22,8 @@ let fileNames = [];
 let folderNames = [];
 let arrayOfResults = [];
 let file;
+let startRecords, 
+	noOfRecordsAdded;
 
 let splitColumns = function (str, splitChar) {
 	colData = [];
@@ -50,25 +52,35 @@ let deleteFolderRecursive = function(path) {
 		fs.rmdirSync(path);
 		return;
 	} else {
-		console.log('\nError. Path does not exisit');
+		console.log('\nError. Path does not exist');
 	}		
 };
 
-let noOfRecords = function() {
-	return new Promise(function(resolve, reject) {
-		Archives.count({})
-		.exec(function(err, noOfRecords) {			
-			if (err) { reject(err);}
-			console.log('\n**** No. of games in archive: **** '+noOfRecords);
-			resolve();	
-		});
-	});		
+let deleteProcessedFiles = function(extractsToUpload) {
+	return new Promise(function(resolve, reject) {		
+		fs.readdir(extractsToUpload, function(err, files) {
+			if (err) {
+				reject(err);
+			}
+			files.forEach(function(file) {
+				let fileToDelete = extractsToUpload + file;				
+				fs.unlink(fileToDelete, function(err) {
+					if (err) {
+						reject(err);
+					}	
+					console.log('\nArchive upload file ' +file +' deleted!');					
+				});			
+			});		
+			db.close();			
+			resolve();
+		});		
+	});	
 };
 
 // read in filenames of saved webpage(s) into an array
 let retrieveResults = function(extractsFolder, fileNames) {
 	return new Promise(function(resolve, reject) {
-		fs.readdir(extractsFolder, function(err, files) {
+		fs.readdir(extractsFolder, function(err, files) {			
 			if (err) {
 				reject(err);
 			}
@@ -81,7 +93,8 @@ let retrieveResults = function(extractsFolder, fileNames) {
 				console.log('\nRetrieved filenames of saved webpage');
 				resolve(fileNames);			
 			} else {
-				reject('\nPlease store the results html file in the extracts - HTML folder first before running this script');
+				err = "\nError. Please store the results html file in the extracts - HTML folder first before running this script.";
+				reject(err);
 			}
 		});
 	});
@@ -100,32 +113,16 @@ let processFileContents = function(fileNames) {
 				const $ = cheerio.load(data);
 				$('table.table-main tr')
 				.each(function(i, elem){
-					let fld_1 = $(elem).children("td:nth-child(1)").text().trim();
-					let event = $(this).find("th.first2").text();
-					if (event.length > 0) {
-						dayEvent = splitColumns(event, '»');
-					}
+					fld_1 = $(elem).children("td:nth-child(1)").text().trim();
+					game = $(elem).children("td:nth-child(2)").text().replace(' - ', ' vs ').replace('-', ' ').replace('.-', ' ').replace(' vs ', '-');
 					results = $(elem).children("td:nth-child(3)").text().trim();
-					goals = splitColumns(results, ':');					
-					if (fld_1.length > 0 && !isEmpty(results) && !isEmpty(goals[0]) && !isEmpty(goals[1])) {
-						if ($(elem).children("td").length > 6) {
-							results = results,	
-							odds_1 = $(elem).children("td:nth-child(4)").text(),
-							odds_x = $(elem).children("td:nth-child(5)").text(),
-							odds_2 = $(elem).children("td:nth-child(6)").text()							
-						} else {
-							results = "",	
-							odds_1 = $(elem).children("td:nth-child(3)").text(),
-							odds_x = $(elem).children("td:nth-child(4)").text(),
-							odds_2 = $(elem).children("td:nth-child(5)").text()								
-						}
+					odds_1 = $(elem).children("td:nth-child(4)").text().trim();		
+					odds_2 = $(elem).children("td:nth-child(5)").text().trim();		
+					if (game.length > 0 && results.length > 0 && odds_1.length > 0 && odds_2.length > 0) {
+						goals = splitColumns(results, ':');	
 						unit = 1;
 						if (isNaN(parseInt(odds_1))) {odds_1 = unit.toString()};
-						if (isNaN(parseInt(odds_x))) {odds_x = unit.toString()};
-						if (isNaN(parseInt(odds_2))) {odds_2 = unit.toString()};						
-						game = $(elem).children("td:nth-child(2)").text().replace(' - ', ' vs ').replace('-', ' ').replace('.-', ' ').replace(' vs ', '-');
-						teams = splitColumns(game, '-');
-//						goals = splitColumns(results, ':');
+						if (isNaN(parseInt(odds_2))) {odds_2 = unit.toString()};
 						h_goals = parseInt(goals[0]);
 						a_goals = parseInt(goals[1]);
 						odds_delta = (parseFloat(odds_1) - parseFloat(odds_2)).toFixed(2).toString();
@@ -145,17 +142,12 @@ let processFileContents = function(fileNames) {
 						}
 						if (!isNaN(h_goals) && !isNaN(a_goals)) {
 							htmlData.push({
-								country: dayEvent[0].trim(),
-								league: dayEvent[1].trim(),
 								day: formattedDate,
 								time: fld_1,	
 								game: game.trim(),
-								home: teams[0].trim(),
-								away: teams[1].trim(),
 								h_goals: h_goals.toString().trim(),
 								a_goals: a_goals.toString().trim(),
 								odds_1: odds_1.trim(),
-								odds_x: odds_x.trim(),
 								odds_2: odds_2.trim(),
 								odds_delta: odds_delta.trim(),
 								h_status: h_status,
@@ -170,47 +162,10 @@ let processFileContents = function(fileNames) {
 					if(err) {
 						reject(err);
 					}
-				});						
-				console.log("\nUpload file " + saveFile + " ready");
-				resolve();				
+					console.log("\nUpload file " + saveFile + " ready");
+					resolve();					
+				});			
 			});	
-		});
-	});
-};
-
-let updateArchives = function(extractsToUpload) {
-	return new Promise(function(resolve, reject) {	
-		fs
-		.readdirSync(extractsToUpload)
-		.forEach(function(file) {
-			if (!file) {
-				reject("\nNo files prepared for upload process");
-			}			
-			process.stdout.write('\nProcessing.');
-			const dataStreamFromFile = fs.createReadStream(extractsToUpload+file);
-			dataStreamFromFile.pipe(JSONStream.parse('*'))
-			.on('data', async (archiveData) => {
-				arrayOfResults.push(archiveData);
-				if (arrayOfResults.length === config.BATCH_INSERT_VALUE) {
-					dataStreamFromFile.pause();
-					await Archives.insertMany(arrayOfResults);
-					arrayOfResults = [];
-					process.stdout.write('.');
-					dataStreamFromFile.resume();
-				}
-			});
-			dataStreamFromFile
-			.on('end', async () => {
-				await Archives.insertMany(arrayOfResults); // left over data
-				console.log('\nImport complete.');
-//				db.close();
-				resolve();
-			});
-			db.on('error', (err) => {
-				console.error('\nMongoDB connection error: ', err);
-				process.exit(-1);
-				reject(err);
-			});
 		});
 	});
 };
@@ -246,46 +201,19 @@ let deleteExtractFolders = function (extractsFolder, folderNames) {
 			let subFolder = extractsFolder+folderName;
 			deleteFolderRecursive(subFolder);
 			console.log('\nFolder ' + folderName +' deleted!');			
-		});	
-		resolve();		
-	});	
-};
-
-let deleteProcessedFiles = function(extractsToUpload) {
-	return new Promise(function(resolve, reject) {		
-		fs.readdir(extractsToUpload, function(err, files) {
-			if (err) {
-				reject(err);
-			}
-			files.forEach(function(file) {
-				let fileToDelete = extractsToUpload + file;				
-				fs.unlink(fileToDelete, function(err) {
-					if (err) {
-						reject(err);
-					}	
-					console.log('\nArchive upload file ' +file +' deleted!');					
-				});			
-			});
-			console.log('\nProcess complete, closing connection...');			
-			db.close();			
-			resolve();
-		});		
+		});
+		db.close();			
+		resolve();			
 	});	
 };
 		
-let promise = noOfRecords();
+let promise = deleteProcessedFiles(extractsToUpload);
 promise
 .then(function() {
 	return retrieveResults(extractsFolder, fileNames);
 })
-.then(function(fileNames) {
+.then(function() {
 	return processFileContents(fileNames);
-})
-.then(function() {
-	return updateArchives(extractsToUpload);
-})
-.then(function() {
-	return noOfRecords();
 })
 .then(function() {
 	return deleteExtractFiles(extractsFolder, folderNames);
@@ -293,10 +221,7 @@ promise
 .then(function(folderNames) {
 	return deleteExtractFolders(extractsFolder, folderNames);
 })
-.then(function() {
-	return deleteProcessedFiles(extractsToUpload);
-})
-.catch(function (err) {	
+.catch(function(err) {	
 	console.log(err);
-	return;
+	process.exit(-1);	
 });

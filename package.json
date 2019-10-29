@@ -5,12 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"getjps": "node mbets_json.js",
-    "bets": "node update_bets.js",
-    "mbets": "node update_mbets.js",
-    "results": "node update_results.js",
-    "betlist": "nodemon analysis_daybets.js",
-    "mbetlist": "nodemon analysis_mbets.js",
+    "football": "node update_football_results.js",
+    "tennis": "node update_tennis_results.js",
     "betanalysis": "nodemon analysis_archivebets.js"
   },
   "repository": {
